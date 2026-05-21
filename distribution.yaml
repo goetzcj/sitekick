@@ -1,0 +1,14 @@
+name: sitekick
+version: 1.0.0
+description: "Autonomous construction management assistant"
+hermes_requires: ">=0.12.0"
+author: "Aspire Interactive Technologies LLC"
+license: "Commercial"
+
+# Tell installers which env vars the agent needs. These are checked against
+# the installer's shell and existing .env file so they don't get nagged
+# about keys they already have configured.
+env_requires:
+  - name: AGENTMAIL_API_KEY
+    description: "AgentMail API Key for dedicated agent inbox"
+    required: true

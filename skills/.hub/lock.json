@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "installed": {
+    "agent-email-patterns": {
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agent-email-patterns/SKILL.md",
+      "trust_level": "community",
+      "scan_verdict": "safe",
+      "content_hash": "sha256:8e1537d18c6bdc10",
+      "install_path": "agentmail/agent-email-patterns",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "url": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agent-email-patterns/SKILL.md",
+        "awaiting_name": false
+      },
+      "installed_at": "2026-05-20T21:41:47.324514+00:00",
+      "updated_at": "2026-05-20T21:41:47.324517+00:00"
+    },
+    "agentmail": {
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail/SKILL.md",
+      "trust_level": "community",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:97308a68aebc2258",
+      "install_path": "agentmail/agentmail",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "url": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail/SKILL.md",
+        "awaiting_name": false
+      },
+      "installed_at": "2026-05-20T21:43:01.200358+00:00",
+      "updated_at": "2026-05-20T21:43:01.200372+00:00"
+    },
+    "agentmail-cli": {
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-cli/SKILL.md",
+      "trust_level": "community",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:bba3843cccb84f0e",
+      "install_path": "agentmail/agentmail-cli",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "url": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-cli/SKILL.md",
+        "awaiting_name": false
+      },
+      "installed_at": "2026-05-20T21:43:05.075842+00:00",
+      "updated_at": "2026-05-20T21:43:05.075848+00:00"
+    },
+    "agentmail-mcp": {
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-mcp/SKILL.md",
+      "trust_level": "community",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:b0f3737dda9cc353",
+      "install_path": "agentmail/agentmail-mcp",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "url": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-mcp/SKILL.md",
+        "awaiting_name": false
+      },
+      "installed_at": "2026-05-20T21:43:08.922177+00:00",
+      "updated_at": "2026-05-20T21:43:08.922181+00:00"
+    },
+    "agentmail-sdk": {
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-sdk/SKILL.md",
+      "trust_level": "community",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:3e93f245b5974caa",
+      "install_path": "agentmail/agentmail-sdk",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "url": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-sdk/SKILL.md",
+        "awaiting_name": false
+      },
+      "installed_at": "2026-05-20T21:43:12.772848+00:00",
+      "updated_at": "2026-05-20T21:43:12.772850+00:00"
+    },
+    "agentmail-toolkit": {
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-toolkit/SKILL.md",
+      "trust_level": "community",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:49ce5e4b700903ac",
+      "install_path": "agentmail/agentmail-toolkit",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "url": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/agentmail-toolkit/SKILL.md",
+        "awaiting_name": false
+      },
+      "installed_at": "2026-05-20T21:43:17.599848+00:00",
+      "updated_at": "2026-05-20T21:43:17.599898+00:00"
+    },
+    "email-for-ai-agents": {
+      "source": "url",
+      "identifier": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/email-for-ai-agents/SKILL.md",
+      "trust_level": "community",
+      "scan_verdict": "caution",
+      "content_hash": "sha256:1c9e09e19532beef",
+      "install_path": "agentmail/email-for-ai-agents",
+      "files": [
+        "SKILL.md"
+      ],
+      "metadata": {
+        "url": "https://raw.githubusercontent.com/agentmail-to/agentmail-skills/main/email-for-ai-agents/SKILL.md",
+        "awaiting_name": false
+      },
+      "installed_at": "2026-05-20T21:43:21.359635+00:00",
+      "updated_at": "2026-05-20T21:43:21.359638+00:00"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+User's Google Calendar timezone is America/Chicago.

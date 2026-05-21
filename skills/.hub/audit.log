@@ -1,0 +1,13 @@
+2026-05-20T21:41:47Z INSTALL agent-email-patterns url:community safe sha256:8e1537d18c6bdc10
+2026-05-20T21:41:51Z BLOCKED agentmail url:community caution 2_findings
+2026-05-20T21:41:55Z BLOCKED agentmail-cli url:community caution 1_findings
+2026-05-20T21:42:00Z BLOCKED agentmail-mcp url:community caution 2_findings
+2026-05-20T21:42:04Z BLOCKED agentmail-sdk url:community caution 2_findings
+2026-05-20T21:42:07Z BLOCKED agentmail-toolkit url:community caution 2_findings
+2026-05-20T21:42:11Z BLOCKED email-for-ai-agents url:community caution 2_findings
+2026-05-20T21:43:01Z INSTALL agentmail url:community caution sha256:97308a68aebc2258
+2026-05-20T21:43:05Z INSTALL agentmail-cli url:community caution sha256:bba3843cccb84f0e
+2026-05-20T21:43:08Z INSTALL agentmail-mcp url:community caution sha256:b0f3737dda9cc353
+2026-05-20T21:43:12Z INSTALL agentmail-sdk url:community caution sha256:3e93f245b5974caa
+2026-05-20T21:43:17Z INSTALL agentmail-toolkit url:community caution sha256:49ce5e4b700903ac
+2026-05-20T21:43:21Z INSTALL email-for-ai-agents url:community caution sha256:1c9e09e19532beef
