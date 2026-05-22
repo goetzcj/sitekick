@@ -6,7 +6,7 @@ providers: {}
 fallback_providers: []
 credential_pool_strategies: {}
 toolsets:
-  - hermes-cli
+- hermes-cli
 agent:
   max_turns: 120
   gateway_timeout: 1800
@@ -216,9 +216,9 @@ display:
   runtime_footer:
     enabled: false
     fields:
-      - model
-      - context_pct
-      - cwd
+    - model
+    - context_pct
+    - cwd
   copy_shortcut: auto
   tool_progress: all
 dashboard:
@@ -313,7 +313,7 @@ curator:
     enabled: true
     keep: 5
 honcho: {}
-timezone: ''
+timezone: America/Chicago
 slack:
   require_mention: true
   free_response_channels: ''
@@ -371,7 +371,7 @@ security:
   allow_lazy_installs: true
 cron:
   wrap_response: true
-  max_parallel_jobs:
+  max_parallel_jobs: null
 kanban:
   dispatch_in_gateway: true
   dispatch_interval_seconds: 60

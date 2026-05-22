@@ -1343,3 +1343,1039 @@ tools.mcp_oauth.OAuthNonInteractiveError: OAuth callback timed out — could not
 2026-05-21 15:08:25,316 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
 2026-05-21 15:08:30,343 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
 2026-05-21 15:08:36,127 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:08:41,154 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:08:46,172 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:08:51,191 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:08:52,045 WARNING tools.mcp_tool: MCP server 'composio' connection lost (attempt 1/5), reconnecting in 1s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 15:08:53,347 WARNING tools.mcp_tool: MCP server 'composio' connection lost (attempt 2/5), reconnecting in 2s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 15:08:55,619 WARNING tools.mcp_tool: MCP server 'composio' connection lost (attempt 3/5), reconnecting in 4s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 15:08:56,211 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:00,973 WARNING tools.mcp_tool: MCP server 'composio' connection lost (attempt 4/5), reconnecting in 8s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 15:09:01,233 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:06,997 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:10,086 WARNING tools.mcp_tool: MCP server 'composio' connection lost (attempt 5/5), reconnecting in 16s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 15:09:12,033 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:17,053 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:22,075 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:26,412 WARNING tools.mcp_tool: MCP server 'composio' failed after 5 reconnection attempts, giving up: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 15:09:27,097 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:32,114 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:37,137 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:42,866 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:47,889 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:52,914 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:09:57,938 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:02,967 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:07,994 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:13,777 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:18,809 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:23,830 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:28,850 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:33,876 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:38,908 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:43,932 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:49,722 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:54,743 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:10:59,771 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:04,796 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:09,821 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:14,846 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:20,583 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:25,608 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:30,628 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:35,649 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:40,667 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:45,679 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:50,706 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:11:56,450 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:01,469 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:06,488 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:11,510 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:16,528 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:21,546 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:26,588 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:31,632 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:36,713 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:41,743 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:46,772 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:51,802 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:12:56,832 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:02,260 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:07,285 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:12,316 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:17,340 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:22,369 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:27,400 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:32,430 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:37,460 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:42,492 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:47,521 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:52,548 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:13:57,568 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:02,596 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:07,622 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:12,652 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:17,681 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:23,104 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:28,125 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:33,150 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:38,170 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:43,192 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:48,214 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:53,697 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:14:58,718 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:03,737 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:08,756 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:13,782 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:18,798 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:24,284 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:29,304 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:34,317 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:39,338 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:44,364 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:49,389 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:54,413 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:15:59,866 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:04,887 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:09,910 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:14,932 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:19,951 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:24,977 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:30,456 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:35,484 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:40,510 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:45,531 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:50,554 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:16:55,571 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:00,592 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:06,064 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:11,082 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:16,101 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:21,123 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:26,138 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:31,160 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:36,635 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:41,661 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:46,692 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:51,714 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:17:56,743 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:01,771 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:07,278 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:12,300 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:17,317 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:22,334 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:27,358 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:32,374 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:37,393 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:43,001 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:48,022 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:53,045 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:18:58,067 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:03,087 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:08,115 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:13,652 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:18,673 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:23,693 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:28,715 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:33,733 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:38,749 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:43,772 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:49,323 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:54,342 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:19:59,360 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:04,382 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:09,405 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:14,425 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:19,972 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:24,992 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:30,016 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:35,036 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:40,063 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:45,081 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:50,107 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:20:55,752 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:00,776 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:05,791 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:10,808 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:15,825 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:20,843 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:26,406 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:31,431 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:36,448 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:41,466 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:46,485 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:51,512 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:21:57,111 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:02,134 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:07,151 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:12,172 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:17,193 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:22,210 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:27,230 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:32,818 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:37,839 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:42,864 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:47,880 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:52,901 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:22:57,920 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:03,515 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:08,535 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:13,557 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:18,579 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:23,600 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:28,618 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:33,636 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:39,266 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:44,287 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:49,306 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:54,324 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:23:59,349 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:04,371 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:09,977 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:15,000 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:20,022 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:25,040 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:30,059 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:35,081 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:40,105 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:45,723 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:50,744 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:24:55,773 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:00,798 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:05,824 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:10,847 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:16,467 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:21,489 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:26,510 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:31,534 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:36,556 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:41,580 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:47,235 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:52,258 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:25:57,284 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:02,300 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:07,316 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:12,333 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:17,351 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:23,025 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:28,047 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:33,064 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:38,085 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:43,103 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:48,135 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:53,859 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:26:58,891 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:03,916 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:08,941 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:13,960 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:18,978 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:23,999 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:29,657 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:34,675 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:39,694 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:44,722 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:49,738 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:27:54,756 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:00,501 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:05,537 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:10,564 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:15,583 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:20,600 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:25,625 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:31,286 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:36,311 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:41,335 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:46,356 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:51,381 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:28:56,398 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:01,419 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:07,183 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:12,210 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:17,229 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:22,244 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:27,268 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:32,289 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:37,993 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:43,017 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:48,037 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:53,059 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:29:58,083 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:03,106 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:08,131 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:13,896 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:18,917 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:23,932 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:28,952 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:33,970 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:38,992 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:44,700 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:49,718 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:54,731 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:30:59,750 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:04,770 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:09,797 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:14,820 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:20,562 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:25,580 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:30,600 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:35,622 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:40,646 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:45,664 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:51,402 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:31:56,424 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:01,442 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:06,467 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:11,488 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:16,510 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:22,236 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:27,260 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:32,278 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:37,303 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:42,326 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:47,349 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:52,369 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:32:58,105 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:03,121 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:08,137 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:13,157 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:18,181 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:23,205 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:28,938 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:33,956 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:38,980 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:44,000 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:49,023 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:54,046 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:33:59,067 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:04,794 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:09,819 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:14,839 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:19,859 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:24,881 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:29,905 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:35,630 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:40,654 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:45,682 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:50,706 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:34:55,732 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:00,755 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:05,806 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:10,846 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:15,929 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:20,950 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:25,970 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:31,001 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:36,026 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:41,603 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:46,626 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:51,655 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:35:56,679 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:01,702 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:06,730 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:12,338 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:17,366 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:22,387 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:27,408 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:32,435 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:37,458 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:42,483 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:48,003 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:53,024 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:36:58,047 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:03,065 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:08,093 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:13,119 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:18,685 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:23,707 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:28,729 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:33,755 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:38,777 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:43,801 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:48,827 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:54,375 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:37:59,385 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:04,396 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:09,407 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:14,423 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:19,437 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:24,990 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:30,012 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:35,030 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:40,054 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:45,074 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:50,098 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:38:55,696 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:00,716 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:05,746 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:10,765 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:15,789 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:20,813 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:25,835 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:31,470 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:36,495 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:41,519 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:46,537 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:51,559 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:39:56,581 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:02,169 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:07,189 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:12,202 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:17,216 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:22,235 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:27,256 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:32,275 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:37,876 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:42,900 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:47,921 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:52,947 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:40:57,970 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 15:41:02,998 WARNING cli: process_loop unhandled error (msg may be lost): [Errno 13] Permission denied: '/opt/data/profiles/sitekick/config.yaml'
+2026-05-21 16:25:44,632 INFO hermes_cli.plugins: Plugin 'openai' registered image_gen provider: openai
+2026-05-21 16:25:44,634 INFO hermes_cli.plugins: Plugin 'openai-codex' registered image_gen provider: openai-codex
+2026-05-21 16:25:44,636 INFO hermes_cli.plugins: Plugin 'xai' registered image_gen provider: xai
+2026-05-21 16:25:44,826 INFO hermes_cli.plugins: Plugin 'fal' registered video_gen provider: fal
+2026-05-21 16:25:44,828 INFO hermes_cli.plugins: Plugin 'xai' registered video_gen provider: xai
+2026-05-21 16:25:44,832 INFO hermes_cli.plugins: Plugin 'web-brave-free' registered web provider: brave-free
+2026-05-21 16:25:44,833 INFO hermes_cli.plugins: Plugin 'web-ddgs' registered web provider: ddgs
+2026-05-21 16:25:44,835 INFO hermes_cli.plugins: Plugin 'web-exa' registered web provider: exa
+2026-05-21 16:25:44,840 INFO hermes_cli.plugins: Plugin 'web-firecrawl' registered web provider: firecrawl
+2026-05-21 16:25:44,841 INFO hermes_cli.plugins: Plugin 'web-parallel' registered web provider: parallel
+2026-05-21 16:25:44,843 INFO hermes_cli.plugins: Plugin 'web-searxng' registered web provider: searxng
+2026-05-21 16:25:44,845 INFO hermes_cli.plugins: Plugin 'web-tavily' registered web provider: tavily
+2026-05-21 16:25:45,042 INFO hermes_cli.plugins: Plugin discovery complete: 22 found, 18 enabled
+2026-05-21 16:25:45,481 INFO tools.mcp_oauth_manager: MCP OAuth 'composio': tokens file changed (mtime 0 -> 1779375131078004308), forcing reload
+2026-05-21 16:25:45,597 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:25:45,730 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 1/3), retrying in 1s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:25:46,792 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:25:46,903 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 2/3), retrying in 2s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:25:48,968 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:25:49,081 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 3/3), retrying in 4s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:25:53,176 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:25:53,288 WARNING tools.mcp_tool: MCP server 'composio' failed initial connection after 3 attempts, giving up: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:25:53,289 WARNING tools.mcp_tool: Failed to connect to MCP server 'composio': Client error '403 Forbidden' for url 'https://connect.composio.dev/mcp'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+2026-05-21 16:25:53,290 INFO tools.mcp_tool: MCP: registered 0 tool(s) from 0 server(s) (1 failed)
+2026-05-21 16:25:53,290 INFO tools.mcp_tool:   MCP: 0 tool(s) from 0 server(s) (1 failed)
+2026-05-21 16:25:54,000 INFO run_agent: Loaded environment variables from /opt/data/profiles/sitekick/.env
+2026-05-21 16:25:54,491 INFO tools.lazy_deps: Lazy-installing edge-tts==7.2.7 for feature 'tts.edge'
+2026-05-21 16:25:54,807 INFO tools.lazy_deps: Lazy install complete for feature 'tts.edge'
+2026-05-21 16:25:54,825 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:25:54,841 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:25:54,846 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:25:54,900 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:25:54,906 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:26:05,966 INFO run_agent: OpenAI client created (agent_init, shared=True) thread=Thread-3 (process_loop):278182865650016 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:26:05,971 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:26:05,980 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=0 msg='What is your primary function?'
+2026-05-21 16:26:06,013 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-5 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:26:10,883 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-5 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:26:10,884 INFO [20260521_162554_d003d1] run_agent: API call #1: model=gpt-5.5 provider=openai-codex in=15019 out=131 total=15150 latency=4.9s cache=1536/15019 (10%)
+2026-05-21 16:26:10,902 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=1/120 budget=1/120 tool_turns=0 last_msg_role=assistant response_len=486 session=20260521_162554_d003d1
+2026-05-21 16:26:11,167 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:26:11,167 INFO agent.auxiliary_client: Auxiliary title_generation: using auto (gpt-5.5) at https://chatgpt.com/backend-api/codex/
+2026-05-21 16:26:37,454 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=2 msg='Do you have your own email inbox as an agent?'
+2026-05-21 16:26:37,465 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-8 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:26:42,017 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-8 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:26:42,017 INFO [20260521_162554_d003d1] run_agent: API call #2: model=gpt-5.5 provider=openai-codex in=15136 out=44 total=15180 latency=4.6s cache=1536/15136 (10%)
+2026-05-21 16:26:42,065 INFO [20260521_162554_d003d1] run_agent: tool skill_view completed (0.04s, 9951 chars)
+2026-05-21 16:26:42,081 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-9 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:26:44,636 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-9 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:26:44,637 INFO [20260521_162554_d003d1] run_agent: API call #3: model=gpt-5.5 provider=openai-codex in=17832 out=71 total=17903 latency=2.6s cache=14848/17832 (83%)
+2026-05-21 16:26:44,659 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=2/120 budget=2/120 tool_turns=1 last_msg_role=assistant response_len=328 session=20260521_162554_d003d1
+2026-05-21 16:27:01,347 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=6 msg='How many emails are in your inbox?'
+2026-05-21 16:27:01,357 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-11 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:06,333 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-11 (_call):278182840287584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:06,334 INFO [20260521_162554_d003d1] run_agent: API call #4: model=gpt-5.5 provider=openai-codex in=17892 out=230 total=18122 latency=5.0s cache=14848/17892 (83%)
+2026-05-21 16:27:06,338 INFO [20260521_162554_d003d1] tools.terminal_tool: Creating new local environment for task default...
+2026-05-21 16:27:06,551 INFO [20260521_162554_d003d1] tools.environments.base: Session snapshot created (session=199f9d2fd5aa, cwd=/opt/hermes)
+2026-05-21 16:27:06,553 INFO [20260521_162554_d003d1] tools.terminal_tool: local environment ready for task default
+2026-05-21 16:27:07,250 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.91s, 115 chars)
+2026-05-21 16:27:07,284 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-15 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:17,292 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-15 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:17,292 INFO [20260521_162554_d003d1] run_agent: API call #5: model=gpt-5.5 provider=openai-codex in=18178 out=148 total=18326 latency=10.0s cache=17408/18178 (96%)
+2026-05-21 16:27:17,768 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.47s, 406 chars)
+2026-05-21 16:27:17,794 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-17 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:21,158 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-17 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:21,158 INFO [20260521_162554_d003d1] run_agent: API call #6: model=gpt-5.5 provider=openai-codex in=18494 out=126 total=18620 latency=3.4s cache=17920/18494 (97%)
+2026-05-21 16:27:21,633 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.47s, 15804 chars)
+2026-05-21 16:27:21,666 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-19 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:25,286 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-19 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:25,287 INFO [20260521_162554_d003d1] run_agent: API call #7: model=gpt-5.5 provider=openai-codex in=26821 out=76 total=26897 latency=3.6s cache=17920/26821 (67%)
+2026-05-21 16:27:25,324 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=4/120 budget=4/120 tool_turns=4 last_msg_role=assistant response_len=117 session=20260521_162554_d003d1
+2026-05-21 16:27:36,524 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=14 msg='how about my google calendar? Any events this afternoon that I need to prep for?'
+2026-05-21 16:27:36,534 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-21 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:41,391 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-21 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:41,391 INFO [20260521_162554_d003d1] run_agent: API call #8: model=gpt-5.5 provider=openai-codex in=26738 out=67 total=26805 latency=4.9s cache=17408/26738 (65%)
+2026-05-21 16:27:41,410 INFO [20260521_162554_d003d1] run_agent: tool skill_view completed (0.01s, 16384 chars)
+2026-05-21 16:27:41,426 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-22 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:48,087 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-22 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:48,087 INFO [20260521_162554_d003d1] run_agent: API call #9: model=gpt-5.5 provider=openai-codex in=31268 out=119 total=31387 latency=6.7s cache=26624/31268 (85%)
+2026-05-21 16:27:48,328 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.24s, 124 chars)
+2026-05-21 16:27:48,353 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-24 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:54,646 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-24 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:54,646 INFO [20260521_162554_d003d1] run_agent: API call #10: model=gpt-5.5 provider=openai-codex in=31452 out=226 total=31678 latency=6.3s cache=30720/31452 (98%)
+2026-05-21 16:27:55,108 WARNING [20260521_162554_d003d1] run_agent: Tool terminal returned error (0.46s): {"output": "NOT_AUTHENTICATED: No token at /opt/data/profiles/sitekick/google_token.json\nNot authenticated. Run the setup script first:\n  python /opt/data/profiles/sitekick/skills/productivity/googl
+2026-05-21 16:27:55,132 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-26 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:58,720 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-26 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:27:58,721 INFO [20260521_162554_d003d1] run_agent: API call #11: model=gpt-5.5 provider=openai-codex in=31762 out=88 total=31850 latency=3.6s cache=31232/31762 (98%)
+2026-05-21 16:27:58,754 INFO [20260521_162554_d003d1] run_agent: tool skill_view completed (0.02s, 6152 chars)
+2026-05-21 16:27:58,772 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-27 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:01,584 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-27 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:01,584 INFO [20260521_162554_d003d1] run_agent: API call #12: model=gpt-5.5 provider=openai-codex in=33290 out=93 total=33383 latency=2.8s cache=31232/33290 (94%)
+2026-05-21 16:28:01,821 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.23s, 207 chars)
+2026-05-21 16:28:01,854 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-29 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:04,306 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-29 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:04,307 INFO [20260521_162554_d003d1] run_agent: API call #13: model=gpt-5.5 provider=openai-codex in=33445 out=60 total=33505 latency=2.5s cache=32768/33445 (98%)
+2026-05-21 16:28:04,548 WARNING [20260521_162554_d003d1] run_agent: Tool terminal returned error (0.23s): {"output": "Error: 'hermes tools' requires an interactive terminal.\nIt cannot be run through a pipe or non-interactive subprocess.\nRun it directly in your terminal instead.", "exit_code": 1, "error"
+2026-05-21 16:28:04,569 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-31 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:09,435 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-31 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:09,436 INFO [20260521_162554_d003d1] run_agent: API call #14: model=gpt-5.5 provider=openai-codex in=33574 out=188 total=33762 latency=4.9s cache=33280/33574 (99%)
+2026-05-21 16:28:09,497 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=7/120 budget=7/120 tool_turns=10 last_msg_role=assistant response_len=389 session=20260521_162554_d003d1
+2026-05-21 16:28:09,513 INFO run_agent: OpenAI client created (agent_init, shared=True) thread=bg-review:278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:09,523 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:28:09,533 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:28:09,533 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=28 msg='Review the conversation above and update the skill library. Be ACTIVE — most ses...'
+2026-05-21 16:28:09,542 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-32 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:26,329 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-32 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:26,330 INFO [20260521_162554_d003d1] run_agent: API call #1: model=gpt-5.5 provider=openai-codex in=34698 out=660 total=35358 latency=16.8s cache=8704/34698 (25%)
+2026-05-21 16:28:26,342 INFO [20260521_162554_d003d1] run_agent: tool skill_manage completed (0.01s, 86 chars)
+2026-05-21 16:28:26,352 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-33 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:26,733 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=28 msg="sure. let's get me connected"
+2026-05-21 16:28:26,744 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-35 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:29,444 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-33 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:29,444 INFO [20260521_162554_d003d1] run_agent: API call #2: model=gpt-5.5 provider=openai-codex in=35401 out=68 total=35469 latency=3.1s cache=34304/35401 (97%)
+2026-05-21 16:28:29,450 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=2/16 budget=2/16 tool_turns=11 last_msg_role=assistant response_len=298 session=20260521_162554_d003d1
+2026-05-21 16:28:29,451 INFO [20260521_162554_d003d1] run_agent: OpenAI client closed (agent_close, shared=True, tcp_force_closed=0) thread=bg-review:278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:33,611 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-35 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:28:33,611 INFO [20260521_162554_d003d1] run_agent: API call #15: model=gpt-5.5 provider=openai-codex in=33386 out=174 total=33560 latency=6.9s cache=26624/33386 (80%)
+2026-05-21 16:29:17,666 INFO [20260521_162554_d003d1] run_agent: tool clarify completed (44.05s, 504 chars)
+2026-05-21 16:29:17,686 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-36 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:21,121 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-36 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:21,121 INFO [20260521_162554_d003d1] run_agent: API call #16: model=gpt-5.5 provider=openai-codex in=33689 out=118 total=33807 latency=3.4s cache=33280/33689 (99%)
+2026-05-21 16:29:21,135 INFO [20260521_162554_d003d1] run_agent: tool skill_view completed (0.01s, 50897 chars)
+2026-05-21 16:29:21,153 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-37 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:23,513 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-37 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:23,514 INFO [20260521_162554_d003d1] run_agent: API call #17: model=gpt-5.5 provider=openai-codex in=46954 out=31 total=46985 latency=2.4s cache=33280/46954 (71%)
+2026-05-21 16:29:23,527 INFO [20260521_162554_d003d1] run_agent: tool skill_view completed (0.01s, 9632 chars)
+2026-05-21 16:29:23,544 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-38 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:29,363 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-38 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:29,365 INFO [20260521_162554_d003d1] run_agent: API call #18: model=gpt-5.5 provider=openai-codex in=49314 out=76 total=49390 latency=5.8s cache=46592/49314 (94%)
+2026-05-21 16:29:30,002 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.63s, 283 chars)
+2026-05-21 16:29:30,029 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-40 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:35,959 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-40 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:35,959 INFO [20260521_162554_d003d1] run_agent: API call #19: model=gpt-5.5 provider=openai-codex in=49482 out=100 total=49582 latency=5.9s cache=49152/49482 (99%)
+2026-05-21 16:29:36,338 INFO tools.mcp_oauth_manager: MCP OAuth 'composio': tokens file changed (mtime 0 -> 1779375131078004308), forcing reload
+2026-05-21 16:29:36,400 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:29:36,512 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 1/3), retrying in 1s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:29:37,585 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:29:37,691 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 2/3), retrying in 2s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:29:39,753 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:29:39,863 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 3/3), retrying in 4s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:29:43,954 WARNING mcp.client.auth.oauth2: Token refresh failed: 403
+2026-05-21 16:29:44,056 WARNING tools.mcp_tool: MCP server 'composio' failed initial connection after 3 attempts, giving up: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:29:44,226 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (8.26s, 339 chars)
+2026-05-21 16:29:44,252 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-42 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:49,523 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-42 (_call):278182594736480 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:49,524 INFO [20260521_162554_d003d1] run_agent: API call #20: model=gpt-5.5 provider=openai-codex in=49701 out=226 total=49927 latency=5.3s cache=49152/49701 (99%)
+2026-05-21 16:29:50,387 INFO [20260521_162554_d003d1] run_agent: tool write_file completed (0.86s, 84 chars)
+2026-05-21 16:29:50,423 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-48 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:52,879 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-48 (_call):278182615839072 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:52,879 INFO [20260521_162554_d003d1] run_agent: API call #21: model=gpt-5.5 provider=openai-codex in=49965 out=59 total=50024 latency=2.5s cache=49152/49965 (98%)
+2026-05-21 16:29:52,928 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.04s, 150 chars)
+2026-05-21 16:29:52,950 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-49 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:55,272 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-49 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:55,272 INFO [20260521_162554_d003d1] run_agent: API call #22: model=gpt-5.5 provider=openai-codex in=50085 out=37 total=50122 latency=2.3s cache=49664/50085 (99%)
+2026-05-21 16:29:55,275 INFO [20260521_162554_d003d1] run_agent: tool process completed (0.00s, 523 chars)
+2026-05-21 16:29:55,294 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-50 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:57,850 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-50 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:29:57,850 INFO [20260521_162554_d003d1] run_agent: API call #23: model=gpt-5.5 provider=openai-codex in=50288 out=34 total=50322 latency=2.6s cache=49664/50288 (99%)
+2026-05-21 16:30:01,855 INFO [20260521_162554_d003d1] run_agent: tool process completed (4.00s, 1706 chars)
+2026-05-21 16:30:01,877 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-51 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:30:06,091 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-51 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:30:06,092 INFO [20260521_162554_d003d1] run_agent: API call #24: model=gpt-5.5 provider=openai-codex in=50816 out=162 total=50978 latency=4.2s cache=50176/50816 (99%)
+2026-05-21 16:30:48,611 INFO tools.mcp_oauth: OAuth tokens removed for 'composio'
+2026-05-21 16:30:48,611 INFO tools.mcp_oauth_manager: MCP OAuth 'composio': evicted from cache and removed from disk
+2026-05-21 16:30:48,995 WARNING tools.mcp_oauth_manager: MCP OAuth for 'composio': non-interactive environment and no cached tokens found. Run interactively first to complete initial authorization.
+2026-05-21 16:30:49,172 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 1/3), retrying in 1s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:30:50,313 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 2/3), retrying in 2s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:30:52,432 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 3/3), retrying in 4s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:30:56,548 WARNING tools.mcp_tool: MCP server 'composio' failed initial connection after 3 attempts, giving up: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:30:57,237 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (51.14s, 1043 chars)
+2026-05-21 16:30:57,269 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-53 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:06,742 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-53 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:06,743 INFO [20260521_162554_d003d1] run_agent: API call #25: model=gpt-5.5 provider=openai-codex in=51266 out=97 total=51363 latency=9.5s cache=50688/51266 (99%)
+2026-05-21 16:31:07,400 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.65s, 84 chars)
+2026-05-21 16:31:07,432 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-55 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:12,387 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-55 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:12,387 INFO [20260521_162554_d003d1] run_agent: API call #26: model=gpt-5.5 provider=openai-codex in=51406 out=50 total=51456 latency=5.0s cache=51200/51406 (100%)
+2026-05-21 16:31:13,235 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.84s, 8725 chars)
+2026-05-21 16:31:13,265 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-60 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:15,121 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-60 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:15,122 INFO [20260521_162554_d003d1] run_agent: API call #27: model=gpt-5.5 provider=openai-codex in=54804 out=34 total=54838 latency=1.9s cache=51200/54804 (93%)
+2026-05-21 16:31:15,969 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.84s, 3447 chars)
+2026-05-21 16:31:15,999 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-65 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:20,490 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-65 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:20,491 INFO [20260521_162554_d003d1] run_agent: API call #28: model=gpt-5.5 provider=openai-codex in=56134 out=80 total=56214 latency=4.5s cache=54272/56134 (97%)
+2026-05-21 16:31:21,129 INFO [20260521_162554_d003d1] run_agent: tool search_files completed (0.64s, 2324 chars)
+2026-05-21 16:31:21,159 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-69 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:23,631 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-69 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:23,632 INFO [20260521_162554_d003d1] run_agent: API call #29: model=gpt-5.5 provider=openai-codex in=56933 out=55 total=56988 latency=2.5s cache=55808/56933 (98%)
+2026-05-21 16:31:24,059 INFO [20260521_162554_d003d1] run_agent: tool search_files completed (0.42s, 5897 chars)
+2026-05-21 16:31:24,086 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-72 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:26,189 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-72 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:26,190 INFO [20260521_162554_d003d1] run_agent: API call #30: model=gpt-5.5 provider=openai-codex in=58774 out=39 total=58813 latency=2.1s cache=56832/58774 (97%)
+2026-05-21 16:31:26,616 INFO [20260521_162554_d003d1] run_agent: tool search_files completed (0.42s, 134 chars)
+2026-05-21 16:31:26,644 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-75 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:29,521 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-75 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:29,521 INFO [20260521_162554_d003d1] run_agent: API call #31: model=gpt-5.5 provider=openai-codex in=58869 out=36 total=58905 latency=2.9s cache=58368/58869 (99%)
+2026-05-21 16:31:30,373 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.85s, 10426 chars)
+2026-05-21 16:31:30,401 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-80 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:47,249 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-80 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:47,249 INFO [20260521_162554_d003d1] run_agent: API call #32: model=gpt-5.5 provider=openai-codex in=62313 out=36 total=62349 latency=16.9s cache=58368/62313 (94%)
+2026-05-21 16:31:48,099 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.84s, 8057 chars)
+2026-05-21 16:31:48,128 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-85 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:56,151 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-85 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:31:56,151 INFO [20260521_162554_d003d1] run_agent: API call #33: model=gpt-5.5 provider=openai-codex in=64806 out=122 total=64928 latency=8.0s cache=61952/64806 (96%)
+2026-05-21 16:31:56,596 INFO agent.lsp.install: [install] npm install --prefix /opt/data/profiles/sitekick/lsp yaml-language-server
+2026-05-21 16:31:58,523 INFO hermes.lint.lsp: lsp[yaml-language-server] active for /opt/data/profiles/sitekick
+2026-05-21 16:31:59,733 INFO [20260521_162554_d003d1] run_agent: tool patch completed (3.58s, 533 chars)
+2026-05-21 16:31:59,786 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-93 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:02,759 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-93 (_call):278182848741728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:02,760 INFO [20260521_162554_d003d1] run_agent: API call #34: model=gpt-5.5 provider=openai-codex in=65096 out=60 total=65156 latency=3.0s cache=64512/65096 (99%)
+2026-05-21 16:32:02,834 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.07s, 150 chars)
+2026-05-21 16:32:02,862 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-94 (_call):278182575796576 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:03,422 INFO tools.mcp_oauth: OAuth tokens removed for 'composio'
+2026-05-21 16:32:03,422 INFO tools.mcp_oauth_manager: MCP OAuth 'composio': evicted from cache and removed from disk
+2026-05-21 16:32:03,566 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 1/3), retrying in 1s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:32:04,686 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 2/3), retrying in 2s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:32:04,802 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-94 (_call):278182575796576 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:04,803 INFO [20260521_162554_d003d1] run_agent: API call #35: model=gpt-5.5 provider=openai-codex in=65218 out=35 total=65253 latency=1.9s cache=65024/65218 (100%)
+2026-05-21 16:32:06,819 WARNING tools.mcp_tool: MCP server 'composio' initial connection failed (attempt 3/3), retrying in 4s: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:32:11,724 WARNING tools.mcp_tool: MCP server 'composio' failed initial connection after 3 attempts, giving up: unhandled errors in a TaskGroup (1 sub-exception)
+2026-05-21 16:32:12,618 INFO [20260521_162554_d003d1] run_agent: tool process completed (7.80s, 291 chars)
+2026-05-21 16:32:12,643 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-95 (_call):278182575796576 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:15,783 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-95 (_call):278182575796576 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:15,783 INFO [20260521_162554_d003d1] run_agent: API call #36: model=gpt-5.5 provider=openai-codex in=65346 out=64 total=65410 latency=3.1s cache=65024/65346 (100%)
+2026-05-21 16:32:15,811 INFO [20260521_162554_d003d1] tools.browser_tool: Started inactivity cleanup thread (timeout: 120s)
+2026-05-21 16:32:15,812 INFO [20260521_162554_d003d1] tools.browser_tool: Created local browser session h_95811ee74b for task 20260521_162554_d003d1
+2026-05-21 16:32:16,030 WARNING [20260521_162554_d003d1] run_agent: Tool browser_navigate returned error (0.24s): {"success": false, "error": "Auto-launch failed: Chrome not found. Checked:\n  - agent-browser cache: /opt/data/.agent-browser/browsers\n  - System Chrome installations\n  - Puppeteer browser cache\n 
+2026-05-21 16:32:16,052 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-96 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:19,193 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-96 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:19,194 INFO [20260521_162554_d003d1] run_agent: API call #37: model=gpt-5.5 provider=openai-codex in=65503 out=95 total=65598 latency=3.1s cache=65024/65503 (99%)
+2026-05-21 16:32:19,467 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.26s, 77 chars)
+2026-05-21 16:32:19,497 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-98 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:24,606 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-98 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:24,607 INFO [20260521_162554_d003d1] run_agent: API call #38: model=gpt-5.5 provider=openai-codex in=65636 out=194 total=65830 latency=5.1s cache=65024/65636 (99%)
+2026-05-21 16:32:24,870 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.26s, 14688 chars)
+2026-05-21 16:32:24,900 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-100 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:29,678 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-100 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:29,679 INFO [20260521_162554_d003d1] run_agent: API call #39: model=gpt-5.5 provider=openai-codex in=72142 out=163 total=72305 latency=4.8s cache=65536/72142 (91%)
+2026-05-21 16:32:29,924 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.24s, 45 chars)
+2026-05-21 16:32:29,952 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-102 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:37,837 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-102 (_call):278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:37,837 INFO [20260521_162554_d003d1] run_agent: API call #40: model=gpt-5.5 provider=openai-codex in=72332 out=356 total=72688 latency=7.9s cache=71680/72332 (99%)
+2026-05-21 16:32:38,395 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=26/120 budget=26/120 tool_turns=35 last_msg_role=assistant response_len=863 session=20260521_162554_d003d1
+2026-05-21 16:32:38,416 INFO run_agent: OpenAI client created (agent_init, shared=True) thread=bg-review:278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:38,429 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:32:38,440 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:32:38,442 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=80 msg='Review the conversation above and update the skill library. Be ACTIVE — most ses...'
+2026-05-21 16:32:38,450 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-103 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:38,605 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=80 msg='[IMPORTANT: Background process proc_5b9ffdd83164 matched watch pattern "https://...'
+2026-05-21 16:32:38,620 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-105 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:43,402 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-105 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:43,403 INFO [20260521_162554_d003d1] run_agent: API call #41: model=gpt-5.5 provider=openai-codex in=72022 out=132 total=72154 latency=4.8s cache=33280/72022 (46%)
+2026-05-21 16:32:43,428 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=1/120 budget=1/120 tool_turns=35 last_msg_role=assistant response_len=558 session=20260521_162554_d003d1
+2026-05-21 16:32:43,635 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=82 msg='[IMPORTANT: Background process proc_30a37a76a5fc matched watch pattern "https://...'
+2026-05-21 16:32:43,651 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-107 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:47,152 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-107 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:47,153 INFO [20260521_162554_d003d1] run_agent: API call #42: model=gpt-5.5 provider=openai-codex in=72262 out=104 total=72366 latency=3.5s cache=71680/72262 (99%)
+2026-05-21 16:32:47,175 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=1/120 budget=1/120 tool_turns=35 last_msg_role=assistant response_len=475 session=20260521_162554_d003d1
+2026-05-21 16:32:54,448 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-103 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:32:54,449 INFO [20260521_162554_d003d1] run_agent: API call #1: model=gpt-5.5 provider=openai-codex in=73229 out=645 total=73874 latency=16.0s cache=33280/73229 (45%)
+2026-05-21 16:32:54,493 INFO [20260521_162554_d003d1] run_agent: tool skill_manage completed (0.04s, 107 chars)
+2026-05-21 16:32:54,506 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-108 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:33:03,934 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-108 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:33:03,934 INFO [20260521_162554_d003d1] run_agent: API call #2: model=gpt-5.5 provider=openai-codex in=73922 out=449 total=74371 latency=9.4s cache=72704/73922 (98%)
+2026-05-21 16:33:04,004 WARNING [20260521_162554_d003d1] run_agent: Tool skill_manage returned error (0.07s): {"success": false, "error": "Could not find a match for old_string in the file", "file_preview": "# Composio MCP as a Google Workspace backend\n\nUse this reference when the user asks for Gmail, Calen
+2026-05-21 16:33:04,023 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-109 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:33:09,826 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-109 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:33:09,827 INFO [20260521_162554_d003d1] run_agent: API call #3: model=gpt-5.5 provider=openai-codex in=74523 out=235 total=74758 latency=5.8s cache=73728/74523 (99%)
+2026-05-21 16:33:09,830 INFO [20260521_162554_d003d1] run_agent: tool skill_manage completed (0.00s, 124 chars)
+2026-05-21 16:33:09,845 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-110 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:33:14,425 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-110 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:33:14,425 INFO [20260521_162554_d003d1] run_agent: API call #4: model=gpt-5.5 provider=openai-codex in=74807 out=159 total=74966 latency=4.6s cache=74240/74807 (99%)
+2026-05-21 16:33:14,434 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=4/16 budget=4/16 tool_turns=38 last_msg_role=assistant response_len=678 session=20260521_162554_d003d1
+2026-05-21 16:33:14,434 INFO [20260521_162554_d003d1] run_agent: OpenAI client closed (agent_close, shared=True, tcp_force_closed=0) thread=bg-review:278182566293856 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:24,228 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=84 msg='We will use composio for this task. Looks like there service was having an tempo...'
+2026-05-21 16:36:24,247 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-112 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:28,475 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-112 (_call):278182557839712 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:28,477 INFO [20260521_162554_d003d1] run_agent: API call #43: model=gpt-5.5 provider=openai-codex in=72399 out=109 total=72508 latency=4.2s cache=72192/72399 (100%)
+2026-05-21 16:36:28,542 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.06s, 178 chars)
+2026-05-21 16:36:28,574 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-113 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:31,326 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-113 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:31,326 INFO [20260521_162554_d003d1] run_agent: API call #44: model=gpt-5.5 provider=openai-codex in=72583 out=34 total=72617 latency=2.8s cache=72192/72583 (99%)
+2026-05-21 16:36:44,032 INFO [20260521_162554_d003d1] run_agent: tool process completed (12.70s, 730 chars)
+2026-05-21 16:36:44,059 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-114 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:49,725 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-114 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:49,726 INFO [20260521_162554_d003d1] run_agent: API call #45: model=gpt-5.5 provider=openai-codex in=72893 out=236 total=73129 latency=5.7s cache=72192/72893 (99%)
+2026-05-21 16:36:49,763 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=3/120 budget=3/120 tool_turns=37 last_msg_role=assistant response_len=633 session=20260521_162554_d003d1
+2026-05-21 16:36:49,995 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=90 msg='[IMPORTANT: Background process proc_66df58c1bd62 matched watch pattern "https://...'
+2026-05-21 16:36:50,011 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-116 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:52,595 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-116 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:36:52,595 INFO [20260521_162554_d003d1] run_agent: API call #46: model=gpt-5.5 provider=openai-codex in=73314 out=62 total=73376 latency=2.6s cache=72192/73314 (98%)
+2026-05-21 16:36:52,618 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=1/120 budget=1/120 tool_turns=37 last_msg_role=assistant response_len=250 session=20260521_162554_d003d1
+2026-05-21 16:37:43,616 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=92 msg='http://localhost:60123/callback?code=***&state=faEK...'
+2026-05-21 16:37:43,636 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-118 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:37:50,566 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-118 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:37:50,567 INFO [20260521_162554_d003d1] run_agent: API call #47: model=gpt-5.5 provider=openai-codex in=73480 out=165 total=73645 latency=6.9s cache=73216/73480 (100%)
+2026-05-21 16:37:50,837 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.27s, 617 chars)
+2026-05-21 16:37:50,865 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-120 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:37:54,897 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-120 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:37:54,897 INFO [20260521_162554_d003d1] run_agent: API call #48: model=gpt-5.5 provider=openai-codex in=73891 out=34 total=73925 latency=4.0s cache=73216/73891 (99%)
+2026-05-21 16:37:54,902 INFO [20260521_162554_d003d1] run_agent: tool process completed (0.00s, 731 chars)
+2026-05-21 16:37:54,925 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-121 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:37:57,914 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-121 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:37:57,915 INFO [20260521_162554_d003d1] run_agent: API call #49: model=gpt-5.5 provider=openai-codex in=74204 out=68 total=74272 latency=3.0s cache=73728/74204 (99%)
+2026-05-21 16:37:58,293 INFO tools.mcp_oauth_manager: MCP OAuth 'composio': tokens file changed (mtime 0 -> 1779381471202463313), forcing reload
+2026-05-21 16:37:58,514 INFO mcp.client.streamable_http: Received session ID: fc316f46-a30d-43fc-91ce-39c24b1a0748
+2026-05-21 16:37:58,515 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-05-21 16:37:59,082 INFO mcp.client.streamable_http: GET stream disconnected, reconnecting in 1000ms...
+2026-05-21 16:38:00,158 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (2.24s, 1154 chars)
+2026-05-21 16:38:00,196 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-123 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:10,099 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-123 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:10,100 INFO [20260521_162554_d003d1] run_agent: API call #50: model=gpt-5.5 provider=openai-codex in=74584 out=309 total=74893 latency=9.9s cache=73728/74584 (99%)
+2026-05-21 16:38:10,966 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.86s, 12135 chars)
+2026-05-21 16:38:10,994 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-128 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:14,094 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-128 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:14,094 INFO [20260521_162554_d003d1] run_agent: API call #51: model=gpt-5.5 provider=openai-codex in=78360 out=52 total=78412 latency=3.1s cache=74240/78360 (95%)
+2026-05-21 16:38:14,524 INFO [20260521_162554_d003d1] run_agent: tool search_files completed (0.42s, 2208 chars)
+2026-05-21 16:38:14,554 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-131 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:18,314 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-131 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:18,314 INFO [20260521_162554_d003d1] run_agent: API call #52: model=gpt-5.5 provider=openai-codex in=79067 out=60 total=79127 latency=3.8s cache=77824/79067 (98%)
+2026-05-21 16:38:18,741 INFO [20260521_162554_d003d1] run_agent: tool search_files completed (0.42s, 2120 chars)
+2026-05-21 16:38:18,774 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-134 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:21,000 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-134 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:21,001 INFO [20260521_162554_d003d1] run_agent: API call #53: model=gpt-5.5 provider=openai-codex in=79800 out=35 total=79835 latency=2.2s cache=78848/79800 (99%)
+2026-05-21 16:38:21,886 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.87s, 7097 chars)
+2026-05-21 16:38:21,920 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-139 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:26,223 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-139 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:26,224 INFO [20260521_162554_d003d1] run_agent: API call #54: model=gpt-5.5 provider=openai-codex in=81812 out=81 total=81893 latency=4.3s cache=79360/81812 (97%)
+2026-05-21 16:38:27,094 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.86s, 4117 chars)
+2026-05-21 16:38:27,127 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-144 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:30,191 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-144 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:30,192 INFO [20260521_162554_d003d1] run_agent: API call #55: model=gpt-5.5 provider=openai-codex in=83241 out=35 total=83276 latency=3.1s cache=81408/83241 (98%)
+2026-05-21 16:38:31,070 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.87s, 6722 chars)
+2026-05-21 16:38:31,107 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-149 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:36,275 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-149 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:36,275 INFO [20260521_162554_d003d1] run_agent: API call #56: model=gpt-5.5 provider=openai-codex in=85335 out=87 total=85422 latency=5.2s cache=82944/85335 (97%)
+2026-05-21 16:38:40,908 INFO [20260521_162554_d003d1] run_agent: tool execute_code completed (4.63s, 758 chars)
+2026-05-21 16:38:40,944 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-153 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:45,184 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-153 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:45,185 INFO [20260521_162554_d003d1] run_agent: API call #57: model=gpt-5.5 provider=openai-codex in=85693 out=95 total=85788 latency=4.2s cache=84992/85693 (99%)
+2026-05-21 16:38:49,608 WARNING [20260521_162554_d003d1] run_agent: Tool execute_code returned error (4.41s): {"status": "error", "output": "\n--- stderr ---\nTraceback (most recent call last):\n  File \"/tmp/hermes_sandbox_spm1rlv5/script.py\", line 6, in <module>\n    schema=registry.get_tool_schema(n)\n   
+2026-05-21 16:38:49,654 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-157 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:51,799 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-157 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:51,800 INFO [20260521_162554_d003d1] run_agent: API call #58: model=gpt-5.5 provider=openai-codex in=85990 out=33 total=86023 latency=2.2s cache=85504/85990 (99%)
+2026-05-21 16:38:52,669 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.86s, 7623 chars)
+2026-05-21 16:38:52,708 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-162 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:55,729 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-162 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:38:55,729 INFO [20260521_162554_d003d1] run_agent: API call #59: model=gpt-5.5 provider=openai-codex in=88244 out=33 total=88277 latency=3.0s cache=85504/88244 (97%)
+2026-05-21 16:38:56,596 INFO [20260521_162554_d003d1] run_agent: tool read_file completed (0.86s, 7613 chars)
+2026-05-21 16:38:56,636 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-167 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:00,993 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-167 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:00,994 INFO [20260521_162554_d003d1] run_agent: API call #60: model=gpt-5.5 provider=openai-codex in=90343 out=105 total=90448 latency=4.4s cache=88064/90343 (97%)
+2026-05-21 16:39:05,823 INFO [20260521_162554_d003d1] run_agent: tool execute_code completed (4.82s, 23659 chars)
+2026-05-21 16:39:05,856 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-171 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:13,046 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-171 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:13,047 INFO [20260521_162554_d003d1] run_agent: API call #61: model=gpt-5.5 provider=openai-codex in=96293 out=260 total=96553 latency=7.2s cache=90112/96293 (94%)
+2026-05-21 16:39:18,804 INFO [20260521_162554_d003d1] run_agent: tool execute_code completed (5.75s, 13430 chars)
+2026-05-21 16:39:18,840 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-175 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:25,776 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-175 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:25,776 INFO [20260521_162554_d003d1] run_agent: API call #62: model=gpt-5.5 provider=openai-codex in=100321 out=256 total=100577 latency=6.9s cache=95744/100321 (95%)
+2026-05-21 16:39:30,598 INFO [20260521_162554_d003d1] run_agent: tool execute_code completed (4.82s, 17670 chars)
+2026-05-21 16:39:30,634 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-179 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:35,618 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-179 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:35,619 INFO [20260521_162554_d003d1] run_agent: API call #63: model=gpt-5.5 provider=openai-codex in=106092 out=184 total=106276 latency=5.0s cache=99840/106092 (94%)
+2026-05-21 16:39:35,860 INFO [20260521_162554_d003d1] run_agent: tool terminal completed (0.24s, 74 chars)
+2026-05-21 16:39:35,900 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-181 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:44,650 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-181 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:39:44,650 INFO [20260521_162554_d003d1] run_agent: API call #64: model=gpt-5.5 provider=openai-codex in=106327 out=390 total=106717 latency=8.8s cache=105984/106327 (100%)
+2026-05-21 16:39:49,663 INFO [20260521_162554_d003d1] run_agent: tool execute_code completed (5.01s, 29083 chars)
+2026-05-21 16:39:49,701 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-185 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:09,987 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-185 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:09,987 INFO [20260521_162554_d003d1] run_agent: API call #65: model=gpt-5.5 provider=openai-codex in=119075 out=407 total=119482 latency=20.3s cache=105984/119075 (89%)
+2026-05-21 16:40:15,002 INFO [20260521_162554_d003d1] run_agent: tool execute_code completed (5.01s, 796 chars)
+2026-05-21 16:40:15,047 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-189 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:21,395 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-189 (_call):278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:21,396 INFO [20260521_162554_d003d1] run_agent: API call #66: model=gpt-5.5 provider=openai-codex in=119791 out=263 total=120054 latency=6.4s cache=118784/119791 (99%)
+2026-05-21 16:40:21,554 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=20/120 budget=13/120 tool_turns=56 last_msg_role=assistant response_len=641 session=20260521_162554_d003d1
+2026-05-21 16:40:21,570 INFO run_agent: OpenAI client created (agent_init, shared=True) thread=bg-review:278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:21,577 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 16:40:21,578 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=132 msg='Review the conversation above and update two things:  **Memory**: who the user i...'
+2026-05-21 16:40:21,589 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-190 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:21,821 INFO [20260521_162554_d003d1] run_agent: conversation turn: session=20260521_162554_d003d1 model=gpt-5.5 provider=openai-codex platform=cli history=132 msg='[IMPORTANT: Background process proc_66df58c1bd62 matched watch pattern "Authenti...'
+2026-05-21 16:40:21,842 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-192 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:26,746 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-192 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:26,746 INFO [20260521_162554_d003d1] run_agent: API call #67: model=gpt-5.5 provider=openai-codex in=119062 out=79 total=119141 latency=4.9s cache=73216/119062 (61%)
+2026-05-21 16:40:26,772 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=1/120 budget=1/120 tool_turns=56 last_msg_role=assistant response_len=340 session=20260521_162554_d003d1
+2026-05-21 16:40:35,365 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-190 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:35,366 INFO [20260521_162554_d003d1] run_agent: API call #1: model=gpt-5.5 provider=openai-codex in=120055 out=572 total=120627 latency=13.8s cache=71168/120055 (59%)
+2026-05-21 16:40:35,373 INFO [20260521_162554_d003d1] run_agent: tool memory completed (0.01s, 331 chars)
+2026-05-21 16:40:35,390 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-193 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:38,190 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-193 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:38,190 INFO [20260521_162554_d003d1] run_agent: API call #2: model=gpt-5.5 provider=openai-codex in=120730 out=42 total=120772 latency=2.8s cache=119808/120730 (99%)
+2026-05-21 16:40:38,196 INFO [20260521_162554_d003d1] run_agent: tool memory completed (0.01s, 365 chars)
+2026-05-21 16:40:38,220 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-194 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:52,103 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-194 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:40:52,103 INFO [20260521_162554_d003d1] run_agent: API call #3: model=gpt-5.5 provider=openai-codex in=120888 out=525 total=121413 latency=13.9s cache=120320/120888 (100%)
+2026-05-21 16:40:52,141 INFO [20260521_162554_d003d1] run_agent: tool skill_manage completed (0.04s, 107 chars)
+2026-05-21 16:40:52,159 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-195 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:41:08,101 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-195 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:41:08,102 INFO [20260521_162554_d003d1] run_agent: API call #4: model=gpt-5.5 provider=openai-codex in=121454 out=706 total=122160 latency=15.9s cache=120320/121454 (99%)
+2026-05-21 16:41:08,108 INFO [20260521_162554_d003d1] run_agent: tool skill_manage completed (0.01s, 124 chars)
+2026-05-21 16:41:08,126 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-196 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:41:13,123 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-196 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:41:13,123 INFO [20260521_162554_d003d1] run_agent: API call #5: model=gpt-5.5 provider=openai-codex in=122202 out=127 total=122329 latency=5.0s cache=121344/122202 (99%)
+2026-05-21 16:41:13,135 INFO [20260521_162554_d003d1] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=5/16 budget=5/16 tool_turns=60 last_msg_role=assistant response_len=588 session=20260521_162554_d003d1
+2026-05-21 16:41:13,135 INFO [20260521_162554_d003d1] run_agent: OpenAI client closed (agent_close, shared=True, tcp_force_closed=0) thread=bg-review:278182280294752 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 16:45:30,611 INFO tools.terminal_tool: Cleaned up inactive environment for task: default
+2026-05-21 17:02:17,475 INFO run_agent: context compression started: session=20260521_162554_d003d1 messages=134 tokens=~133,988 model=gpt-5.5 focus=None
+2026-05-21 17:02:17,510 INFO agent.auxiliary_client: Auxiliary compression: using auto (gpt-5.5) at https://chatgpt.com/backend-api/codex/
+2026-05-21 17:03:53,765 INFO run_agent: context compression done: session=20260521_170353_83ad78 messages=134->8 tokens=~26,660
+2026-05-21 19:39:21,478 INFO [20260521_170353_83ad78] run_agent: conversation turn: session=20260521_170353_83ad78 model=gpt-5.5 provider=openai-codex platform=cli history=8 msg='Ok. I would like a Daily Morning Brief and a Daily End of Day Brief scheduled fo...'
+2026-05-21 19:39:21,499 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-199 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:30,039 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-199 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:30,039 INFO [20260521_170353_83ad78] run_agent: API call #68: model=gpt-5.5 provider=openai-codex in=21050 out=276 total=21326 latency=8.6s cache=1536/21050 (7%)
+2026-05-21 19:39:30,132 INFO run_agent: tool skill_view completed (0.08s, 50897 chars)
+2026-05-21 19:39:30,142 INFO run_agent: tool skill_view completed (0.09s, 10342 chars)
+2026-05-21 19:39:30,147 INFO run_agent: tool skill_view completed (0.10s, 16384 chars)
+2026-05-21 19:39:30,168 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-200 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:45,995 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-200 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:45,995 INFO [20260521_170353_83ad78] run_agent: API call #69: model=gpt-5.5 provider=openai-codex in=41653 out=537 total=42190 latency=15.8s cache=20480/41653 (49%)
+2026-05-21 19:39:46,005 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 49 chars)
+2026-05-21 19:39:46,025 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-201 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:56,208 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-201 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:56,210 INFO [20260521_170353_83ad78] run_agent: API call #70: model=gpt-5.5 provider=openai-codex in=42229 out=86 total=42315 latency=10.2s cache=41472/42229 (98%)
+2026-05-21 19:39:56,215 INFO [20260521_170353_83ad78] tools.file_tools: Creating new local environment for task default...
+2026-05-21 19:39:56,438 INFO [20260521_170353_83ad78] tools.environments.base: Session snapshot created (session=a45e26be9568, cwd=/opt/hermes)
+2026-05-21 19:39:56,438 INFO [20260521_170353_83ad78] tools.file_tools: local environment ready for task default
+2026-05-21 19:39:57,100 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.88s, 121 chars)
+2026-05-21 19:39:57,134 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-206 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:59,507 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-206 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:39:59,507 INFO [20260521_170353_83ad78] run_agent: API call #71: model=gpt-5.5 provider=openai-codex in=42366 out=51 total=42417 latency=2.4s cache=41984/42366 (99%)
+2026-05-21 19:39:59,955 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.45s, 121 chars)
+2026-05-21 19:39:59,984 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-209 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:01,779 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-209 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:01,780 INFO [20260521_170353_83ad78] run_agent: API call #72: model=gpt-5.5 provider=openai-codex in=42465 out=34 total=42499 latency=1.8s cache=41984/42465 (99%)
+2026-05-21 19:40:02,651 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.86s, 2447 chars)
+2026-05-21 19:40:02,680 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-214 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:07,123 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-214 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:07,123 INFO [20260521_170353_83ad78] run_agent: API call #73: model=gpt-5.5 provider=openai-codex in=43400 out=60 total=43460 latency=4.4s cache=41984/43400 (97%)
+2026-05-21 19:40:07,558 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.43s, 22462 chars)
+2026-05-21 19:40:07,583 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-217 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:17,128 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-217 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:17,128 INFO [20260521_170353_83ad78] run_agent: API call #74: model=gpt-5.5 provider=openai-codex in=48730 out=69 total=48799 latency=9.6s cache=43008/48730 (88%)
+2026-05-21 19:40:17,566 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.43s, 7671 chars)
+2026-05-21 19:40:17,592 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-220 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:20,845 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-220 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:20,846 INFO [20260521_170353_83ad78] run_agent: API call #75: model=gpt-5.5 provider=openai-codex in=50895 out=50 total=50945 latency=3.3s cache=48640/50895 (96%)
+2026-05-21 19:40:21,288 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.44s, 6301 chars)
+2026-05-21 19:40:21,327 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-223 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:24,431 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-223 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:24,431 INFO [20260521_170353_83ad78] run_agent: API call #76: model=gpt-5.5 provider=openai-codex in=52694 out=33 total=52727 latency=3.1s cache=50688/52694 (96%)
+2026-05-21 19:40:25,311 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.87s, 4253 chars)
+2026-05-21 19:40:25,345 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-228 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:27,313 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-228 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:27,313 INFO [20260521_170353_83ad78] run_agent: API call #77: model=gpt-5.5 provider=openai-codex in=53976 out=33 total=54009 latency=2.0s cache=52224/53976 (97%)
+2026-05-21 19:40:28,211 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.89s, 3836 chars)
+2026-05-21 19:40:28,244 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-233 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:34,293 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-233 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:34,294 INFO [20260521_170353_83ad78] run_agent: API call #78: model=gpt-5.5 provider=openai-codex in=55146 out=237 total=55383 latency=6.1s cache=53760/55146 (97%)
+2026-05-21 19:40:34,725 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.43s, 15025 chars)
+2026-05-21 19:40:34,753 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-236 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:37,908 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-236 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:37,908 INFO [20260521_170353_83ad78] run_agent: API call #79: model=gpt-5.5 provider=openai-codex in=59368 out=53 total=59421 latency=3.2s cache=54784/59368 (92%)
+2026-05-21 19:40:38,351 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.44s, 3614 chars)
+2026-05-21 19:40:38,386 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-239 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:40,659 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-239 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:40,660 INFO [20260521_170353_83ad78] run_agent: API call #80: model=gpt-5.5 provider=openai-codex in=60387 out=34 total=60421 latency=2.3s cache=58880/60387 (98%)
+2026-05-21 19:40:41,525 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.86s, 4297 chars)
+2026-05-21 19:40:41,556 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-244 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:54,372 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-244 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:40:54,372 INFO [20260521_170353_83ad78] run_agent: API call #81: model=gpt-5.5 provider=openai-codex in=61696 out=565 total=62261 latency=12.8s cache=59904/61696 (97%)
+2026-05-21 19:40:54,642 INFO [20260521_170353_83ad78] run_agent: tool terminal completed (0.27s, 65 chars)
+2026-05-21 19:40:54,672 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-246 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:14,744 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-246 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:14,744 INFO [20260521_170353_83ad78] run_agent: API call #82: model=gpt-5.5 provider=openai-codex in=62299 out=944 total=63243 latency=20.1s cache=61440/62299 (99%)
+2026-05-21 19:41:14,750 WARNING [20260521_170353_83ad78] run_agent: Tool cronjob returned error (0.00s): {"error": "Invalid duration: 'day at 8:00 am america/chicago'. Use format like '30m', '2h', or '1d'", "success": false}
+2026-05-21 19:41:14,773 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-247 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:18,012 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-247 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:18,012 INFO [20260521_170353_83ad78] run_agent: API call #83: model=gpt-5.5 provider=openai-codex in=63294 out=80 total=63374 latency=3.2s cache=61952/63294 (98%)
+2026-05-21 19:41:18,454 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.44s, 12284 chars)
+2026-05-21 19:41:18,489 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-250 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:21,015 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-250 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:21,016 INFO [20260521_170353_83ad78] run_agent: API call #84: model=gpt-5.5 provider=openai-codex in=66955 out=33 total=66988 latency=2.5s cache=62976/66955 (94%)
+2026-05-21 19:41:21,896 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.88s, 5970 chars)
+2026-05-21 19:41:21,927 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-255 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:28,980 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-255 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:28,982 INFO [20260521_170353_83ad78] run_agent: API call #85: model=gpt-5.5 provider=openai-codex in=68884 out=33 total=68917 latency=7.1s cache=66560/68884 (97%)
+2026-05-21 19:41:29,852 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.86s, 3281 chars)
+2026-05-21 19:41:29,886 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-260 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:32,584 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-260 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:32,584 INFO [20260521_170353_83ad78] run_agent: API call #86: model=gpt-5.5 provider=openai-codex in=69941 out=52 total=69993 latency=2.7s cache=68608/69941 (98%)
+2026-05-21 19:41:33,023 INFO [20260521_170353_83ad78] run_agent: tool search_files completed (0.43s, 4491 chars)
+2026-05-21 19:41:33,052 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-263 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:34,869 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-263 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:34,870 INFO [20260521_170353_83ad78] run_agent: API call #87: model=gpt-5.5 provider=openai-codex in=71297 out=29 total=71326 latency=1.8s cache=69632/71297 (98%)
+2026-05-21 19:41:35,747 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.87s, 4213 chars)
+2026-05-21 19:41:35,777 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-268 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:39,784 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-268 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:39,784 INFO [20260521_170353_83ad78] run_agent: API call #88: model=gpt-5.5 provider=openai-codex in=72683 out=120 total=72803 latency=4.0s cache=71168/72683 (98%)
+2026-05-21 19:41:41,416 INFO [20260521_170353_83ad78] run_agent: tool patch completed (1.62s, 563 chars)
+2026-05-21 19:41:41,459 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-276 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:55,351 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-276 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:41:55,352 INFO [20260521_170353_83ad78] run_agent: API call #89: model=gpt-5.5 provider=openai-codex in=72969 out=655 total=73624 latency=13.9s cache=72192/72969 (99%)
+2026-05-21 19:41:55,361 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 1169 chars)
+2026-05-21 19:41:55,384 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-277 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:07,020 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-277 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:07,021 INFO [20260521_170353_83ad78] run_agent: API call #90: model=gpt-5.5 provider=openai-codex in=73999 out=441 total=74440 latency=11.6s cache=72704/73999 (98%)
+2026-05-21 19:42:07,272 INFO [20260521_170353_83ad78] run_agent: tool terminal completed (0.25s, 120 chars)
+2026-05-21 19:42:07,309 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-279 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:11,320 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-279 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:11,321 INFO [20260521_170353_83ad78] run_agent: API call #91: model=gpt-5.5 provider=openai-codex in=74507 out=70 total=74577 latency=4.0s cache=73728/74507 (99%)
+2026-05-21 19:42:12,211 INFO [20260521_170353_83ad78] run_agent: tool read_file completed (0.89s, 3862 chars)
+2026-05-21 19:42:12,247 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-284 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:28,161 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-284 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:28,162 INFO [20260521_170353_83ad78] run_agent: API call #92: model=gpt-5.5 provider=openai-codex in=75718 out=737 total=76455 latency=15.9s cache=74240/75718 (98%)
+2026-05-21 19:42:28,174 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 1180 chars)
+2026-05-21 19:42:28,197 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-285 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:38,506 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-285 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:38,506 INFO [20260521_170353_83ad78] run_agent: API call #93: model=gpt-5.5 provider=openai-codex in=76836 out=239 total=77075 latency=10.3s cache=75264/76836 (98%)
+2026-05-21 19:42:38,781 INFO [20260521_170353_83ad78] run_agent: tool terminal completed (0.27s, 161 chars)
+2026-05-21 19:42:38,814 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-287 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:42,376 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-287 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:42,377 INFO [20260521_170353_83ad78] run_agent: API call #94: model=gpt-5.5 provider=openai-codex in=77160 out=63 total=77223 latency=3.6s cache=76288/77160 (99%)
+2026-05-21 19:42:42,381 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 1815 chars)
+2026-05-21 19:42:42,405 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-288 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:45,724 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-288 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:45,725 INFO [20260521_170353_83ad78] run_agent: API call #95: model=gpt-5.5 provider=openai-codex in=77735 out=97 total=77832 latency=3.3s cache=76800/77735 (99%)
+2026-05-21 19:42:45,733 INFO [20260521_170353_83ad78] run_agent: tool memory completed (0.00s, 588 chars)
+2026-05-21 19:42:45,756 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-289 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:54,171 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-289 (_call):278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:54,171 INFO [20260521_170353_83ad78] run_agent: API call #96: model=gpt-5.5 provider=openai-codex in=77986 out=353 total=78339 latency=8.4s cache=77312/77986 (99%)
+2026-05-21 19:42:54,413 INFO [20260521_170353_83ad78] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=29/120 budget=29/120 tool_turns=29 last_msg_role=assistant response_len=1234 session=20260521_170353_83ad78
+2026-05-21 19:42:54,429 INFO run_agent: OpenAI client created (agent_init, shared=True) thread=bg-review:278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:42:54,453 INFO agent.auxiliary_client: Vision auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 19:42:54,462 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 19:42:54,463 INFO [20260521_170353_83ad78] run_agent: conversation turn: session=20260521_170353_83ad78 model=gpt-5.5 provider=openai-codex platform=cli history=68 msg='Review the conversation above and update the skill library. Be ACTIVE — most ses...'
+2026-05-21 19:42:54,473 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-290 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:17,837 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-290 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:17,838 INFO [20260521_170353_83ad78] run_agent: API call #1: model=gpt-5.5 provider=openai-codex in=77160 out=1167 total=78327 latency=23.4s cache=1536/77160 (2%)
+2026-05-21 19:43:17,877 INFO [20260521_170353_83ad78] run_agent: tool skill_manage completed (0.04s, 89 chars)
+2026-05-21 19:43:17,891 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-291 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:30,474 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-291 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:30,474 INFO [20260521_170353_83ad78] run_agent: API call #2: model=gpt-5.5 provider=openai-codex in=78371 out=462 total=78833 latency=12.6s cache=76800/78371 (98%)
+2026-05-21 19:43:30,480 INFO [20260521_170353_83ad78] run_agent: tool skill_manage completed (0.00s, 89 chars)
+2026-05-21 19:43:30,496 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-292 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:39,110 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-292 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:39,111 INFO [20260521_170353_83ad78] run_agent: API call #3: model=gpt-5.5 provider=openai-codex in=78870 out=324 total=79194 latency=8.6s cache=77824/78870 (99%)
+2026-05-21 19:43:39,116 INFO [20260521_170353_83ad78] run_agent: tool skill_manage completed (0.01s, 89 chars)
+2026-05-21 19:43:39,133 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-293 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:44,827 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-293 (_call):278182267646304 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:43:44,828 INFO [20260521_170353_83ad78] run_agent: API call #4: model=gpt-5.5 provider=openai-codex in=79238 out=238 total=79476 latency=5.7s cache=78336/79238 (99%)
+2026-05-21 19:43:44,843 INFO [20260521_170353_83ad78] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=4/16 budget=4/16 tool_turns=32 last_msg_role=assistant response_len=811 session=20260521_170353_83ad78
+2026-05-21 19:43:44,844 INFO [20260521_170353_83ad78] run_agent: OpenAI client closed (agent_close, shared=True, tcp_force_closed=0) thread=bg-review:278182603190624 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:25,021 INFO [20260521_170353_83ad78] run_agent: conversation turn: session=20260521_170353_83ad78 model=gpt-5.5 provider=openai-codex platform=cli history=68 msg="Ah. One correction. I don't need those briefs on Sundays. Only Monday through Sa..."
+2026-05-21 19:48:25,039 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-308 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:32,089 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-308 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:32,090 INFO [20260521_170353_83ad78] run_agent: API call #97: model=gpt-5.5 provider=openai-codex in=75859 out=87 total=75946 latency=7.1s cache=20480/75859 (27%)
+2026-05-21 19:48:32,094 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 1815 chars)
+2026-05-21 19:48:32,124 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-309 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:34,823 INFO tools.terminal_tool: Cleaned up inactive environment for task: default
+2026-05-21 19:48:35,539 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-309 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:35,539 INFO [20260521_170353_83ad78] run_agent: API call #98: model=gpt-5.5 provider=openai-codex in=76465 out=94 total=76559 latency=3.4s cache=75776/76465 (99%)
+2026-05-21 19:48:35,545 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 846 chars)
+2026-05-21 19:48:36,551 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.01s, 850 chars)
+2026-05-21 19:48:36,582 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-310 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:43,124 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-310 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:43,124 INFO [20260521_170353_83ad78] run_agent: API call #99: model=gpt-5.5 provider=openai-codex in=77087 out=243 total=77330 latency=6.5s cache=76288/77087 (99%)
+2026-05-21 19:48:43,130 INFO [20260521_170353_83ad78] tools.terminal_tool: Creating new local environment for task default...
+2026-05-21 19:48:43,344 INFO [20260521_170353_83ad78] tools.environments.base: Session snapshot created (session=d02625a0a8b9, cwd=/opt/hermes)
+2026-05-21 19:48:43,345 INFO [20260521_170353_83ad78] tools.terminal_tool: local environment ready for task default
+2026-05-21 19:48:43,615 INFO [20260521_170353_83ad78] run_agent: tool terminal completed (0.48s, 165 chars)
+2026-05-21 19:48:43,653 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-313 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:48,424 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-313 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:48,424 INFO [20260521_170353_83ad78] run_agent: API call #100: model=gpt-5.5 provider=openai-codex in=77421 out=112 total=77533 latency=4.8s cache=76800/77421 (99%)
+2026-05-21 19:48:48,431 INFO [20260521_170353_83ad78] run_agent: tool memory completed (0.00s, 623 chars)
+2026-05-21 19:48:48,455 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-314 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:51,770 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-314 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:51,770 INFO [20260521_170353_83ad78] run_agent: API call #101: model=gpt-5.5 provider=openai-codex in=77694 out=19 total=77713 latency=3.3s cache=77312/77694 (100%)
+2026-05-21 19:48:51,773 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 1819 chars)
+2026-05-21 19:48:51,796 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-315 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:54,662 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-315 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:48:54,662 INFO [20260521_170353_83ad78] run_agent: API call #102: model=gpt-5.5 provider=openai-codex in=78231 out=76 total=78307 latency=2.9s cache=77312/78231 (99%)
+2026-05-21 19:48:54,706 INFO [20260521_170353_83ad78] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=6/120 budget=6/120 tool_turns=34 last_msg_role=assistant response_len=250 session=20260521_170353_83ad78
+2026-05-21 19:53:51,329 INFO [20260521_170353_83ad78] run_agent: conversation turn: session=20260521_170353_83ad78 model=gpt-5.5 provider=openai-codex platform=cli history=81 msg='Perfect. One thing I just thought about is the fact that I or others may email y...'
+2026-05-21 19:53:51,347 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-317 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:53:55,521 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-317 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:53:55,521 INFO [20260521_170353_83ad78] run_agent: API call #103: model=gpt-5.5 provider=openai-codex in=78313 out=124 total=78437 latency=4.2s cache=75776/78313 (97%)
+2026-05-21 19:53:55,540 INFO [20260521_170353_83ad78] run_agent: tool skill_view completed (0.02s, 10342 chars)
+2026-05-21 19:53:55,565 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-318 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:53:58,077 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-318 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:53:58,077 INFO [20260521_170353_83ad78] run_agent: API call #104: model=gpt-5.5 provider=openai-codex in=81172 out=19 total=81191 latency=2.5s cache=8704/81172 (11%)
+2026-05-21 19:53:58,082 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 1819 chars)
+2026-05-21 19:53:58,104 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-319 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:01,632 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-319 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:01,632 INFO [20260521_170353_83ad78] run_agent: API call #105: model=gpt-5.5 provider=openai-codex in=81709 out=107 total=81816 latency=3.5s cache=80896/81709 (99%)
+2026-05-21 19:54:04,857 INFO [20260521_170353_83ad78] run_agent: tool execute_code completed (3.22s, 5394 chars)
+2026-05-21 19:54:04,892 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-323 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:35,591 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-323 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:35,591 INFO [20260521_170353_83ad78] run_agent: API call #106: model=gpt-5.5 provider=openai-codex in=83039 out=1600 total=84639 latency=30.7s cache=81408/83039 (98%)
+2026-05-21 19:54:35,604 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 846 chars)
+2026-05-21 19:54:36,613 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.01s, 850 chars)
+2026-05-21 19:54:36,648 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-324 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:42,658 INFO tools.terminal_tool: Cleaned up inactive environment for task: default
+2026-05-21 19:54:43,774 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-324 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:43,774 INFO [20260521_170353_83ad78] run_agent: API call #107: model=gpt-5.5 provider=openai-codex in=85174 out=106 total=85280 latency=7.1s cache=82944/85174 (97%)
+2026-05-21 19:54:43,781 INFO [20260521_170353_83ad78] run_agent: tool memory completed (0.00s, 657 chars)
+2026-05-21 19:54:43,806 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-325 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:48,444 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-325 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:48,444 INFO [20260521_170353_83ad78] run_agent: API call #108: model=gpt-5.5 provider=openai-codex in=85448 out=167 total=85615 latency=4.6s cache=84992/85448 (99%)
+2026-05-21 19:54:51,668 INFO [20260521_170353_83ad78] run_agent: tool execute_code completed (3.22s, 297 chars)
+2026-05-21 19:54:51,713 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-329 (_call):278182053605728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:57,332 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-329 (_call):278182053605728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:57,332 INFO [20260521_170353_83ad78] run_agent: API call #109: model=gpt-5.5 provider=openai-codex in=85719 out=156 total=85875 latency=5.6s cache=84992/85719 (99%)
+2026-05-21 19:54:57,375 INFO [20260521_170353_83ad78] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=7/120 budget=5/120 tool_turns=40 last_msg_role=assistant response_len=652 session=20260521_170353_83ad78
+2026-05-21 19:54:57,390 INFO run_agent: OpenAI client created (agent_init, shared=True) thread=bg-review:278182053605728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:54:57,395 INFO agent.auxiliary_client: Auxiliary auto-detect: using main provider openai-codex (gpt-5.5)
+2026-05-21 19:54:57,396 INFO [20260521_170353_83ad78] run_agent: conversation turn: session=20260521_170353_83ad78 model=gpt-5.5 provider=openai-codex platform=cli history=96 msg='Review the conversation above and update the skill library. Be ACTIVE — most ses...'
+2026-05-21 19:54:57,406 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-330 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:55:11,655 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-330 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:55:11,655 INFO [20260521_170353_83ad78] run_agent: API call #1: model=gpt-5.5 provider=openai-codex in=86987 out=717 total=87704 latency=14.3s cache=75264/86987 (87%)
+2026-05-21 19:55:11,954 INFO [20260521_170353_83ad78] run_agent: tool skill_manage completed (0.30s, 89 chars)
+2026-05-21 19:55:11,969 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-331 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:55:22,469 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-331 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:55:22,470 INFO [20260521_170353_83ad78] run_agent: API call #2: model=gpt-5.5 provider=openai-codex in=87748 out=480 total=88228 latency=10.5s cache=86528/87748 (99%)
+2026-05-21 19:55:22,474 INFO [20260521_170353_83ad78] run_agent: tool skill_manage completed (0.00s, 86 chars)
+2026-05-21 19:55:22,490 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-332 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:55:28,843 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-332 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:55:28,844 INFO [20260521_170353_83ad78] run_agent: API call #3: model=gpt-5.5 provider=openai-codex in=88264 out=200 total=88464 latency=6.4s cache=87552/88264 (99%)
+2026-05-21 19:55:28,853 INFO [20260521_170353_83ad78] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=3/16 budget=3/16 tool_turns=42 last_msg_role=assistant response_len=941 session=20260521_170353_83ad78
+2026-05-21 19:55:28,853 INFO [20260521_170353_83ad78] run_agent: OpenAI client closed (agent_close, shared=True, tcp_force_closed=0) thread=bg-review:278182053605728 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:02,331 INFO [20260521_170353_83ad78] run_agent: conversation turn: session=20260521_170353_83ad78 model=gpt-5.5 provider=openai-codex platform=cli history=96 msg='Awesome. Approvals for creating tasks, etc., should likely be a section in the b...'
+2026-05-21 19:58:02,347 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-334 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:12,104 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-334 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:12,105 INFO [20260521_170353_83ad78] run_agent: API call #110: model=gpt-5.5 provider=openai-codex in=85692 out=74 total=85766 latency=9.8s cache=77824/85692 (91%)
+2026-05-21 19:58:12,110 INFO [20260521_170353_83ad78] run_agent: tool cronjob completed (0.00s, 1819 chars)
+2026-05-21 19:58:12,141 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-335 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:24,067 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-335 (_call):278182062059872 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:24,067 INFO [20260521_170353_83ad78] run_agent: API call #111: model=gpt-5.5 provider=openai-codex in=86291 out=584 total=86875 latency=11.9s cache=85504/86291 (99%)
+2026-05-21 19:58:27,289 INFO [20260521_170353_83ad78] run_agent: tool execute_code completed (3.22s, 270 chars)
+2026-05-21 19:58:27,330 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-339 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:32,309 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-339 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:32,310 INFO [20260521_170353_83ad78] run_agent: API call #112: model=gpt-5.5 provider=openai-codex in=86955 out=126 total=87081 latency=5.0s cache=86016/86955 (99%)
+2026-05-21 19:58:32,318 INFO [20260521_170353_83ad78] run_agent: tool memory completed (0.00s, 765 chars)
+2026-05-21 19:58:32,342 INFO run_agent: OpenAI client created (codex_stream_request, shared=False) thread=Thread-340 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:35,954 INFO run_agent: OpenAI client closed (request_complete, shared=False, tcp_force_closed=0) thread=Thread-340 (_call):278182045151584 provider=openai-codex base_url=https://chatgpt.com/backend-api/codex model=gpt-5.5
+2026-05-21 19:58:35,955 INFO [20260521_170353_83ad78] run_agent: API call #113: model=gpt-5.5 provider=openai-codex in=87269 out=88 total=87357 latency=3.6s cache=77824/87269 (89%)
+2026-05-21 19:58:35,983 INFO [20260521_170353_83ad78] run_agent: Turn ended: reason=text_response(finish_reason=stop) model=gpt-5.5 api_calls=4/120 budget=3/120 tool_turns=43 last_msg_role=assistant response_len=401 session=20260521_170353_83ad78

@@ -1,0 +1,99 @@
+{
+  "jobs": [
+    {
+      "id": "5072c102532e",
+      "name": "Daily Morning Brief",
+      "prompt": "You are SiteKick, a construction operations chief of staff. Generate and deliver the user's Daily Morning Brief.\n\nUser/timezone/delivery facts:\n- User timezone: America/Chicago.\n- User email: goetzcj@gmail.com.\n- Agent inbox: sitekick@agentmail.to.\n- Prefer Telegram if a Telegram home channel is configured; otherwise send email from AgentMail to goetzcj@gmail.com.\n- This cron job itself is deliver='local'; you must actively deliver the brief using send_message or AgentMail. Do not rely on the cron final response for user delivery.\n\nSteps:\n1. Get current local date/time with a tool using TZ=America/Chicago.\n2. Gather outstanding commitments, tasks, deadlines, reminders, and follow-ups from recent session history using session_search. Search broadly for: commitments OR promised OR follow-up OR task OR reminder OR deadline OR due OR customer OR crew OR vendor OR materials OR inspection OR estimate OR change order OR invoice OR blocker OR issue.\n3. Check the AgentMail inbox sitekick@agentmail.to for incoming emails that may require action. Load AGENTMAIL_API_KEY from /opt/data/profiles/sitekick/.env and use the AgentMail API. Review unread/unreplied messages and recent received messages, especially since the last brief or last 24-72 hours. Extract action items, task/status requests, confirmations needed, customer/vendor/crew follow-ups, deadlines, attachments needing review, and anything that should be tracked. Do not send replies, mark messages read, change labels, create tasks/reminders, calendar events, or external records unless separately authorized. Put those proposed actions in an 'Approvals Needed' section of the brief.\n4. If Composio Google Workspace tools are available, also check Google Calendar and Google Tasks for today and overdue items. Use explicit America/Chicago RFC3339 offsets. Do not modify anything.\n5. Build a concise risk-ranked morning brief. Include:\n   - Critical / at-risk items first: customer dissatisfaction, job delay, missed revenue, safety, inspections, material blockers.\n   - Action items or follow-ups found in AgentMail inbox.\n   - Today's calendar/prep items.\n   - Outstanding commitments and who owns them.\n   - Tasks due today or overdue.\n   - Customer/crew/vendor follow-ups.\n   - Deadlines, inspections, estimates/change orders, invoices/payments needing attention.\n   - Approvals needed: tasks to create, reminders to schedule, customer/crew/vendor replies to send, calendar events to add, Drive files to save/share, or any action affecting money/schedule/customer reputation.\n   - Decisions or approvals needed from the user.\n   - Unclear items that need confirmation, labeled as uncertain.\n6. Delivery logic:\n   - First determine whether a Telegram home exists. Prefer send_message(action='list'); you may also inspect Hermes gateway config. If Telegram home exists, send the brief to target 'telegram' with send_message.\n   - If Telegram is not configured, no Telegram home exists, send_message is unavailable, or Telegram send fails, send the brief by AgentMail API from sitekick@agentmail.to to goetzcj@gmail.com. Load AGENTMAIL_API_KEY from /opt/data/profiles/sitekick/.env. Use both text and html. Subject format: Daily Morning Brief — YYYY-MM-DD.\n7. Final response should be a one-line delivery status only, e.g. 'Morning brief delivered via Telegram.' or 'Morning brief emailed to goetzcj@gmail.com.'\n\nKeep the brief short, plain-spoken, and construction-operations focused. Never invent job facts; mark uncertainty.",
+      "skills": [
+        "google-workspace",
+        "agentmail"
+      ],
+      "skill": "google-workspace",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 1-6",
+        "display": "0 8 * * 1-6"
+      },
+      "schedule_display": "0 8 * * 1-6",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-21T19:41:55.358018+00:00",
+      "next_run_at": "2026-05-22T08:00:00-05:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": [
+        "terminal",
+        "file",
+        "session_search",
+        "skills",
+        "messaging",
+        "mcp-composio"
+      ],
+      "workdir": null
+    },
+    {
+      "id": "3213837bc8fa",
+      "name": "Daily End of Day Brief",
+      "prompt": "You are SiteKick, a construction operations chief of staff. Generate and deliver the user's Daily End of Day Brief.\n\nUser/timezone/delivery facts:\n- User timezone: America/Chicago.\n- User email: goetzcj@gmail.com.\n- Agent inbox: sitekick@agentmail.to.\n- Prefer Telegram if a Telegram home channel is configured; otherwise send email from AgentMail to goetzcj@gmail.com.\n- This cron job itself is deliver='local'; you must actively deliver the brief using send_message or AgentMail. Do not rely on the cron final response for user delivery.\n\nSteps:\n1. Get current local date/time with a tool using TZ=America/Chicago.\n2. Gather commitments, tasks, deadlines, reminders, follow-ups, issues, decisions, risks, and blockers captured today from recent session history using session_search. Search broadly for: commitments OR promised OR follow-up OR task OR reminder OR deadline OR due OR customer OR crew OR vendor OR materials OR inspection OR estimate OR change order OR invoice OR blocker OR issue OR decision OR approval.\n3. Check the AgentMail inbox sitekick@agentmail.to for incoming emails that may require action. Load AGENTMAIL_API_KEY from /opt/data/profiles/sitekick/.env and use the AgentMail API. Review unread/unreplied messages and recent received messages, especially since the morning brief or last 24 hours. Extract action items, task/status requests, confirmations needed, customer/vendor/crew follow-ups, deadlines, attachments needing review, and anything that should be tracked. Do not send replies, mark messages read, change labels, create tasks/reminders, calendar events, or external records unless separately authorized. Put those proposed actions in an 'Approvals Needed' section of the brief.\n4. If Composio Google Workspace tools are available, also check Google Calendar and Google Tasks for items due today, overdue, and tomorrow. Use explicit America/Chicago RFC3339 offsets. Do not modify anything.\n5. Build a concise risk-ranked end-of-day brief. Include:\n   - Promises made today.\n   - Action items or follow-ups found in AgentMail inbox.\n   - Open follow-ups and owners.\n   - Overdue or at-risk items: customer dissatisfaction, job delay, missed revenue, safety, inspections, material blockers.\n   - Tomorrow's reminders, calendar/prep, due tasks, and deadlines.\n   - Customer/crew/vendor updates still owed.\n   - Materials/orders, inspections, estimates/change orders, invoices/payments needing attention.\n   - Approvals needed: tasks to create, reminders to schedule, customer/crew/vendor replies to send, calendar events to add, Drive files to save/share, or any action affecting money/schedule/customer reputation.\n   - Decisions or approvals needed from the user.\n   - Unclear items needing confirmation, labeled as uncertain.\n6. Delivery logic:\n   - First determine whether a Telegram home exists. Prefer send_message(action='list'); you may also inspect Hermes gateway config. If Telegram home exists, send the brief to target 'telegram' with send_message.\n   - If Telegram is not configured, no Telegram home exists, send_message is unavailable, or Telegram send fails, send the brief by AgentMail API from sitekick@agentmail.to to goetzcj@gmail.com. Load AGENTMAIL_API_KEY from /opt/data/profiles/sitekick/.env. Use both text and html. Subject format: Daily End of Day Brief — YYYY-MM-DD.\n7. Final response should be a one-line delivery status only, e.g. 'End-of-day brief delivered via Telegram.' or 'End-of-day brief emailed to goetzcj@gmail.com.'\n\nKeep the brief short, plain-spoken, and construction-operations focused. Never invent job facts; mark uncertainty.",
+      "skills": [
+        "google-workspace",
+        "agentmail"
+      ],
+      "skill": "google-workspace",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 17 * * 1-6",
+        "display": "0 17 * * 1-6"
+      },
+      "schedule_display": "0 17 * * 1-6",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-21T19:42:28.170707+00:00",
+      "next_run_at": "2026-05-21T17:00:00-05:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": [
+        "terminal",
+        "file",
+        "session_search",
+        "skills",
+        "messaging",
+        "mcp-composio"
+      ],
+      "workdir": null
+    }
+  ],
+  "updated_at": "2026-05-21T19:54:36.607003+00:00"
+}

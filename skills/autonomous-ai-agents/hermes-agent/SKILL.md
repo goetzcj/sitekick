@@ -155,6 +155,26 @@ hermes config set mcp_servers.composio.enabled true
 hermes mcp list
 ```
 
+If `hermes mcp add` appears to succeed but `config.yaml` ends up with only:
+
+```yaml
+mcp_servers:
+  composio:
+    enabled: true
+```
+
+repair the entry to include the URL and auth mode:
+
+```yaml
+mcp_servers:
+  composio:
+    url: https://connect.composio.dev/mcp
+    auth: oauth
+    enabled: true
+```
+
+Then run `hermes mcp test composio` or `hermes mcp login composio` again.
+
 If Hermes is being run from the `/opt/hermes` source checkout and `hermes` is not on PATH, use `.venv/bin/python ./hermes ...` from the repo root. If the endpoint returns 401 and the CLI asks for a token/header, rerun with `--auth oauth` rather than entering an API key. In headless/WSL environments the OAuth flow may print a URL and the browser may fail to reach `localhost:<port>` because the callback listener is inside WSL. Keep the login process running, have the user paste the full `http://localhost:<port>/callback?...` redirect URL, then bridge it with `curl` to `http://127.0.0.1:<port>/callback?...` from WSL. Do not probe the callback URL first: the listener is one-shot. If the default login times out before the user can paste the redirect, use the long-timeout probe recipe in `references/composio-mcp.md`. Reload MCP tools or start a new session after OAuth.
 
 More detail: `references/composio-mcp.md`, including the post-setup Composio app-connection workflow (`COMPOSIO_SEARCH_TOOLS` → connect toolkit if needed → schema lookup → execute app tools) and Gmail triage payload limits.
@@ -661,13 +681,16 @@ Durable scheduler — `cron/jobs.py` + `cron/scheduler.py`. Drive it via
 the `cronjob` tool, the `hermes cron` CLI (`list`, `add`, `edit`,
 `pause`, `resume`, `run`, `remove`), or the `/cron` slash command.
 
-- **Schedules:** duration (`"30m"`, `"2h"`), "every" phrase
-  (`"every monday 9am"`), 5-field cron (`"0 9 * * *"`), or ISO timestamp.
+- **Schedules:** duration (`"30m"`, `"2h"`), "every" phrase only for recurring intervals like `"every 2h"`, 5-field cron (`"0 9 * * *"`), or ISO timestamp.
+- **Schedules:** duration (`"30m"`, `"2h"`), 5-field cron (`"0 9 * * *"`), or ISO timestamp. Prefer explicit cron expressions for recurring wall-clock jobs; the cron parser does not reliably accept natural-language strings like `"every day at 8:00 AM America/Chicago"`.
+- **Timezone discipline:** set `timezone: <IANA zone>` in the active profile config before creating user-local cron jobs. In source-checkout shells where `hermes` is not on PATH, use `/opt/hermes/.venv/bin/python /opt/hermes/hermes config set timezone America/Chicago` (or patch the active profile config carefully), then verify `next_run_at` displays the expected local offset.
+- **Conditional delivery:** if a job must decide at runtime where to deliver (for example Telegram home channel if configured, otherwise email), create it with `deliver="local"` and put explicit active delivery instructions in the prompt. The cron final response should only report delivery status; the job itself must call `send_message` or the email API.
 - **Per-job knobs:** `skills`, `model`/`provider` override, `script`
   (pre-run data collection; `no_agent=True` makes the script the whole
   job), `context_from` (chain job A's output into job B), `workdir`
   (run in a specific dir with its `AGENTS.md` / `CLAUDE.md` loaded),
   multi-platform delivery.
+- **Delivery routing pattern:** if a cron job must prefer a home channel only when it exists and otherwise fall back to a different channel (for example Telegram home → AgentMail email), set the cron job's own `deliver` to `local` and make the prompt actively perform delivery: inspect/list home channels, use `send_message` for the platform target if available, otherwise send through the fallback API. This prevents duplicate cron auto-delivery.
 - **Invariants:** 3-minute hard interrupt per run, `.tick.lock` file
   prevents duplicate ticks across processes, cron sessions pass
   `skip_memory=True` by default, and cron deliveries are framed with a

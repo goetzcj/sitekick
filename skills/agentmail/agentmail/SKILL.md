@@ -29,11 +29,15 @@ from agentmail import AgentMail
 client = AgentMail(api_key="YOUR_API_KEY")
 ```
 
-### Hermes profile setup and smoke test
+### Hermes profile setup, smoke test, inbox counts, and brief triage
 
 When configuring AgentMail for a Hermes profile, store the key in the active profile `.env` as `AGENTMAIL_API_KEY=...` rather than hardcoding it in scripts. If the user provides the key in chat, save it to the profile env file and recommend rotating it afterward.
 
-Use the API directly for a quick inbox-access smoke test; this avoids depending on SDK installation state:
+Use the API directly for quick inbox-access checks; this avoids depending on SDK installation state. For user questions like “how many emails are in your inbox?”, prefer a read-only workflow: list inboxes, pick the relevant agent inbox, list messages with a high enough `limit`, then report the API `count` plus a simple sent/received breakdown from message labels. Do not dump message headers or bodies unless the user asks for details.
+
+For scheduled operations briefs or commitment-capture reviews, include the agent’s own inbox as a first-class context source. Review unread/unreplied and recent received messages for action items, task/status requests, confirmations needed, customer/vendor/crew follow-ups, deadlines, attachments needing review, and items that should become tracked commitments. Keep this read-only by default: do not reply, mark read, change labels, create drafts, or create tasks unless the user has separately approved that side effect.
+
+Use this smoke test to verify API access:
 
 ```bash
 # Find the env file for the active Hermes profile

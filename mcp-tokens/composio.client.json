@@ -1,6 +1,6 @@
 {
   "redirect_uris": [
-    "http://localhost:49235/callback"
+    "http://localhost:60123/callback"
   ],
   "token_endpoint_auth_method": "none",
   "grant_types": [
@@ -13,6 +13,6 @@
   "scope": "openid profile email offline_access",
   "client_name": "Hermes Agent",
   "contacts": [],
-  "client_id": "jooOfhkGRxsvxjvwMOZpFfFugxSHycoU",
-  "client_id_issued_at": 1779309614
+  "client_id": "hLPADtWjqSBqpGimxoTXXOyiyGaDqLdf",
+  "client_id_issued_at": 1779381390
 }

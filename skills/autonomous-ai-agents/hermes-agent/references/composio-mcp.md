@@ -21,6 +21,18 @@ cd /opt/hermes
 
 If the first `mcp add` tries to prompt for an API key/header because the endpoint returns 401 before OAuth, rerun with `--auth oauth`. Do not enter a bearer token unless Composio docs explicitly change.
 
+Pitfall: non-interactive `hermes mcp add ...` can hit prompts (`Overwrite?`, `Save config anyway?`) via EOF/defaults. If a failed add leaves an incomplete config entry such as only `mcp_servers.composio.enabled: true`, repair it manually before retrying:
+
+```yaml
+mcp_servers:
+  composio:
+    url: https://connect.composio.dev/mcp
+    auth: oauth
+    enabled: true
+```
+
+Pitfall: a raw 403 from `https://connect.composio.dev/mcp` may be Cloudflare's managed challenge (`cf-mitigated: challenge`, HTML title "Just a moment..."), not bad Hermes config. If that happens from WSL/headless/curl, the MCP OAuth flow may never produce an authorization URL. Try from a normal browser/terminal environment that can satisfy the challenge, or use a direct service-specific OAuth fallback (for example the Google Workspace local OAuth flow) if the user needs immediate access.
+
 In headless/WSL environments, OAuth may time out while printing an authorization URL. Save the config anyway if prompted, enable the server if it was saved disabled, then have the user complete OAuth:
 
 ```bash
@@ -79,13 +91,31 @@ After OAuth, reload MCP tools or start a fresh Hermes session:
 - `/reload-mcp` when available
 - or `/reset` / exit and relaunch Hermes
 
+If you need to use newly authenticated Composio MCP tools immediately inside the same running agent session before a reload exposes them as first-class tools, you can invoke them programmatically from `execute_code` by discovering MCP tools and calling the registry handlers:
+
+```python
+from tools.mcp_tool import discover_mcp_tools
+from tools.registry import registry
+
+discover_mcp_tools()
+entry = registry.get_entry('mcp_composio_COMPOSIO_SEARCH_TOOLS')
+result = entry.handler({
+    'queries': [{'use_case': 'check Google Calendar events', 'known_fields': 'app: googlecalendar'}],
+    'session': {'generate_id': True},
+})
+print(result)
+```
+
+Tool names are prefixed as `mcp_composio_...`, for example `mcp_composio_COMPOSIO_SEARCH_TOOLS`, `mcp_composio_COMPOSIO_MANAGE_CONNECTIONS`, and `mcp_composio_COMPOSIO_MULTI_EXECUTE_TOOL`. Preserve the `session_id` returned by `COMPOSIO_SEARCH_TOOLS` in later Composio calls. This is a same-session bridge, not a replacement for `/reload-mcp` or restarting Hermes.
+
 Verification:
 
 ```bash
+.venv/bin/python ./hermes mcp test composio
 .venv/bin/python ./hermes mcp list
 ```
 
-Expected result: `composio` appears with URL `https://connect.composio.dev/mcp` and status enabled. Full tool availability requires completed OAuth and an MCP reload/new session.
+Expected result: `composio` appears with URL `https://connect.composio.dev/mcp`, OAuth auth, status enabled, and `hermes mcp test composio` discovers the seven Composio meta tools.
 
 Composio guidance to mention after setup:
 - Prefer Composio tools over browser automation for supported apps because they are scoped, faster, and more secure.
