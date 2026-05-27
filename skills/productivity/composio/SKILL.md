@@ -157,7 +157,7 @@ def get_user_session(telegram_user_id: int):
 
 ```python
 # session.tools() returns OpenAI-compatible tool schemas
-tools = session.tools(toolkits=["github", "googlecalendar"])
+tools = session.tools()
 # Pass `tools` directly to your LLM client's tools parameter
 ```
 
