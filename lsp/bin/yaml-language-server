@@ -1,1 +1,4 @@
-/opt/data/profiles/sitekick/lsp/node_modules/.bin/yaml-language-server
+#!/bin/sh
+set -e
+SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+exec "$SCRIPT_DIR/../node_modules/.bin/yaml-language-server" "$@"
