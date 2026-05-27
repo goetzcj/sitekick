@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install composio-core into the Hermes Agent Python environment.
+# Install composio into the Hermes Agent Python environment.
 #
 # Usage (from the sitekick profile root):
 #   bash skills/productivity/composio/scripts/install.sh
@@ -13,16 +13,27 @@ PACKAGE="composio"
 
 echo "→ Installing ${PACKAGE}..."
 
-if command -v uv &>/dev/null; then
-  echo "  Using uv add"
+if command -v uv &>/dev/null && [ -f pyproject.toml ]; then
+  echo "  Using uv add (pyproject.toml found)"
   uv add "${PACKAGE}"
-else
+elif python -m pip --version &>/dev/null; then
+  echo "  Using python -m pip install"
+  python -m pip install "${PACKAGE}"
+elif command -v pip &>/dev/null; then
   echo "  Using pip install"
   pip install "${PACKAGE}"
+else
+  echo "  No pip found for default python; trying Hermes venv python"
+  /usr/local/lib/hermes-agent/venv/bin/python3 -m pip install "${PACKAGE}"
 fi
 
 echo "→ Verifying install..."
-python -c "import composio; print('  composio version:', composio.__version__)"
+if command -v python &>/dev/null; then
+  python -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))" || \
+    /usr/local/lib/hermes-agent/venv/bin/python3 -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))"
+else
+  /usr/local/lib/hermes-agent/venv/bin/python3 -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))"
+fi
 
 echo ""
 echo "✓ ${PACKAGE} installed successfully."
