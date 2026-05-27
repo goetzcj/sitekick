@@ -1,5 +1,5 @@
 name: sitekick
-version: 1.0.0
+version: 1.0.1
 description: "Autonomous construction management assistant"
 hermes_requires: ">=0.12.0"
 author: "Aspire Interactive Technologies LLC"
@@ -11,4 +11,7 @@ license: "Commercial"
 env_requires:
   - name: AGENTMAIL_API_KEY
     description: "AgentMail API Key for dedicated agent inbox"
+    required: true
+  - name: COMPOSIO_API_KEY
+    description: "Composio API Key for use with the python package composio"
     required: true
