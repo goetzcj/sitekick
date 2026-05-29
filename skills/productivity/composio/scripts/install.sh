@@ -16,21 +16,31 @@ echo "→ Installing ${PACKAGE}..."
 if command -v uv &>/dev/null && [ -f pyproject.toml ]; then
   echo "  Using uv add (pyproject.toml found)"
   uv add "${PACKAGE}"
-elif python -m pip --version &>/dev/null; then
+elif command -v python3 &>/dev/null && python3 -m pip --version &>/dev/null; then
+  echo "  Using python3 -m pip install"
+  python3 -m pip install "${PACKAGE}"
+elif command -v python &>/dev/null && python -m pip --version &>/dev/null; then
   echo "  Using python -m pip install"
   python -m pip install "${PACKAGE}"
 elif command -v pip &>/dev/null; then
   echo "  Using pip install"
   pip install "${PACKAGE}"
-else
-  echo "  No pip found for default python; trying Hermes venv python"
+elif command -v uv &>/dev/null && command -v python3 &>/dev/null; then
+  echo "  No pip found; using uv against system python3 with --break-system-packages"
+  uv pip install --python "$(command -v python3)" --system --break-system-packages "${PACKAGE}"
+elif [ -x /usr/local/lib/hermes-agent/venv/bin/python3 ]; then
+  echo "  Trying Hermes venv python"
   /usr/local/lib/hermes-agent/venv/bin/python3 -m pip install "${PACKAGE}"
+else
+  echo "  ERROR: no usable Python installer found" >&2
+  exit 1
 fi
 
 echo "→ Verifying install..."
-if command -v python &>/dev/null; then
-  python -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))" || \
-    /usr/local/lib/hermes-agent/venv/bin/python3 -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))"
+if command -v python3 &>/dev/null; then
+  python3 -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))"
+elif command -v python &>/dev/null; then
+  python -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))"
 else
   /usr/local/lib/hermes-agent/venv/bin/python3 -c "import composio; print('  composio version:', getattr(composio, '__version__', 'unknown'))"
 fi

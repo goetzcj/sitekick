@@ -40,11 +40,13 @@ uv add composio
 pip install composio
 ```
 
-Verify:
+Verify with the Python executable Hermes will use. On newer Linux images, `python` may be missing while `python3` is present:
 
 ```bash
-python -c "import composio; print('composio ok:', composio.__version__)"
+python3 -c "import composio; print('composio ok:', getattr(composio, '__version__', 'unknown'))"
 ```
+
+If the environment has no pip because of PEP 668 / externally managed Python, the bundled installer falls back to `uv pip install --python $(command -v python3) --system --break-system-packages composio`.
 
 ## Authentication
 
@@ -176,6 +178,6 @@ tools = session.tools()
 ## Verification Checklist
 
 - [ ] `COMPOSIO_API_KEY` is present in the profile `.env`
-- [ ] `python -c "import composio"` succeeds inside the Hermes virtualenv
+- [ ] `python3 -c "import composio"` succeeds in the Python environment Hermes/cron will use
 - [ ] `composio connections` shows the expected linked accounts
 - [ ] A test tool execution returns a result (not an auth error)
